@@ -1,9 +1,7 @@
-# GraphGenerationPapers
+# Must-read papers on Graph Generation models, algorithms and applications
 
-# Must-read papers on GNN
-GNN: graph neural network
 
-Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
+Contributed by Yuxin Li, Jianjun Hu et al.
 
 ## [Content](#content)
 
