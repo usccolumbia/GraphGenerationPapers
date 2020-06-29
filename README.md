@@ -59,6 +59,8 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
 ## [Survey papers](#content)
 
+1. **Must read papers on graphical neural networks [link](https://github.com/thunlp/GNNPapers)**
+
 1. **Deep learning for molecular design—a review of the state of the art." Molecular Systems Design & Engineering 4, no. 4 (2019): 828-849**
 
 	Elton, Daniel C., Zois Boukouvalas, Mark D. Fuge, and Peter W. Chung. 
@@ -70,11 +72,6 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 1. **Advances and challenges in deep generative models for de novo molecule generation**
 	Xue, Dongyu and Gong, Yukang and Yang, Zhaoyi and Chuai, Guohui and Qu, Sheng and Shen, Aizong and Yu, Jing and Liu, Qi
 
-1. **Must read papers on graphical neural networks [link](https://github.com/thunlp/GNNPapers)**
-
-1. **Introduction to Graph Neural Networks.** Synthesis Lectures on Artificial Intelligence and Machine Learning, Morgan & Claypool Publishers, 2020. [book](https://www.morganclaypool.com/doi/10.2200/S00980ED1V01Y202001AIM045)
-
-    *Zhiyuan Liu, Jie Zhou.* 
 
 1. **Graph Neural Networks: A Review of Methods and Applications.** arxiv 2018. [paper](https://arxiv.org/pdf/1812.08434.pdf)
    
