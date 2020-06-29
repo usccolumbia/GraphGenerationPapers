@@ -20,7 +20,7 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
     <td>&emsp;<a href="#efficiency">2.5 Auto-regressive models</a></td>
     <td></td>
 </tr>
-<tr><td colspan="2"><a href="#Source Code">3. Open source codes</a></td></tr> 
+<tr><td colspan="2"><a href="#SourceCode">3. Open source codes</a></td></tr> 
 
 <tr><td colspan="2"><a href="#benchmark">4. Benchmark Datasets</a></td></tr> 
 
@@ -33,7 +33,7 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 </tr> 
 <tr>
     <td>&emsp;<a href="#biology">Biology</a></td>
-    <td>&emsp;<a href="#biology">Pharmacy: drug design</a></td>
+    <td>&emsp;<a href="#Pharmacy">Pharmacy: drug design</a></td>
 </tr>
 <tr>
     <td>&emsp;<a href="#media">Image/Video/Sound/Speech Synthesis </a></td>
@@ -1357,12 +1357,6 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
     
 ### [Source Code](#content)
 1. **DyRep: Learning Representations over Dynamic Graphs.** ICLR 2019. [paper](https://openreview.net/pdf?id=HyePrhR5KX)
-
-    *Rakshit Trivedi, Mehrdad Farajtabar, Prasenjeet Biswal, Hongyuan Zha.*
-    
-    
-### [Leaderboard](#content)
-
 1. ** https://github.com/nyu-dl/conditional-molecular-design-ssvae
 1. ** https://github.com/bowenliu16/rl_graph_generation/tree/master/gym-molecule
 1. ** Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation
@@ -1375,3 +1369,8 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 1. ** https://github.com/insilicomedicine/BiAAE
 1. ** Hierarchical Generation of Molecular Graphs using Structural Motifs
 	[link](https://github.com/wengong-jin/hgraph2graph)
+	
+    
+### [Leaderboard](#content)
+
+
