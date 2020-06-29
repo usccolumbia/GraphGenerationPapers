@@ -1336,37 +1336,6 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
 ### [Social Network](#content)
 
-1. **Link Prediction Based on Graph Neural Networks.** NeurIPS 2018. [paper](https://arxiv.org/pdf/1802.09691.pdf)
-   
-    *Muhan Zhang, Yixin Chen.*
-
-1. **DeepInf: Social Influence Prediction with Deep Learning.** KDD 2018. [paper](https://arxiv.org/pdf/1807.05560.pdf)
-
-    *Jiezhong Qiu, Jian Tang, Hao Ma, Yuxiao Dong, Kuansan Wang, Jie Tang.*
-
-1. **Characterizing and Forecasting User Engagement with In-app Action Graph: A Case Study of Snapchat.** KDD 2019. [paper](https://arxiv.org/pdf/1906.00355)
-
-    *Yozen Liu, Xiaolin Shi, Lucas Pierce, Xiang Ren.*
-
-1. **MCNE: An End-to-End Framework for Learning Multiple Conditional Network Representations of Social Network.** KDD 2019. [paper](https://arxiv.org/pdf/1905.11013)
-
-    *Hao Wang, Tong Xu, Qi Liu, Defu Lian, Enhong Chen, Dongfang Du, Han Wu, Wen Su.*
-
-1. **Is a Single Vector Enough? Exploring Node Polysemy for Network Embedding.** KDD 2019. [paper](https://arxiv.org/pdf/1905.10668)
-
-    *Ninghao Liu, Qiaoyu Tan, Yuening Li, Hongxia Yang, Jingren Zhou, Xia Hu.*
-
-1. **Encoding Social Information with Graph Convolutional Networks for Political Perspective Detection in News Media.** ACL 2019. [paper](https://www.cs.purdue.edu/homes/dgoldwas//downloads/papers/LiG_acl_2019.pdf)
-
-    *Chang Li, Dan Goldwasser.*
-    
-1. **Fine-grained Event Categorization with Heterogeneous Graph Convolutional Networks.** IJCAI 2019. [paper](https://arxiv.org/pdf/1906.04580.pdf)
-
-    *Hao Peng, Jianxin Li, Qiran Gong, Yangqiu Song, Yuanxing Ning, Kunfeng Lai, Philip S. Yu.*
-
-1. **Graph Convolutional Networks with Markov Random Field Reasoning for Social Spammer Detection.** AAAI 2020. [paper](http://staff.ustc.edu.cn/~liandefu/paper/aaai2020_spammer.pdf)
-
-	*Yongji Wu, Defu Lian, Yiheng Xu, Le Wu, Enhong Chen.*
 
 1. **Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks.** AAAI 2020. [paper](https://arxiv.org/abs/2001.06362)
 
