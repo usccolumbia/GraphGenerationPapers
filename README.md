@@ -1,5 +1,5 @@
-# Must-read papers on Deep Learning Graph Generation:\\
-models, algorithms and applications
+# Must-read papers on Deep Learning Graph Generation:
+# models, algorithms and applications
 
 
 Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
