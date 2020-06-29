@@ -28,7 +28,7 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
 <tr><td colspan="2"><a href="#applications">6. Applications</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#physics">Physics</a></td>
+    <td>&emsp;<a href="#physics">Physics & Materials</a></td>
     <td>&ensp;<a href="#chemistry">Chemistry</a></td>
 </tr> 
 <tr>
@@ -40,11 +40,11 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
     <td>&emsp;<a href="#language">Natural language generation</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#engineering">Engineering design: circuits/systems synthesis</a></td>
+    <td>&emsp;<a href="#programs">Program synthesis</a></td>
     <td>&ensp;<a href="#computer-network">Computer Network design</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#programs">Program synthesis</a></td>
+    <td>&ensp;<a href="#engineering">Engineering design: circuits/systems synthesis</a></td>
     <td>&ensp;<a href="#knowledgegraph">Knowledge Graph</a></td>
 </tr> 
 <tr>
