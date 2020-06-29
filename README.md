@@ -28,9 +28,13 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
 <tr><td colspan="2"><a href="#applications">6. Applications</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#physics">Physics & Materials</a></td>
+    <td>&emsp;<a href="#physics">Physics</a></td>
     <td>&ensp;<a href="#chemistry">Chemistry</a></td>
-</tr> 
+</tr>
+<tr>
+    <td>&emsp;<a href="#Organic Materials">Organic Materials</a></td>
+    <td>&emsp;<a href="#Inorganic Materials">Inorganic Materials</a></td>
+</tr>
 <tr>
     <td>&emsp;<a href="#biology">Biology</a></td>
     <td>&emsp;<a href="#Pharmacy">Pharmacy: drug design</a></td>
@@ -433,14 +437,7 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
     *Jianwen Jiang, Yuxuan Wei, Yifan Feng, Jingxuan Cao, Yue Gao.*
     
-1. **Exploiting Interaction Links for Node Classification with Deep Graph Neural Networks.** IJCAI 2019. [paper](https://www.ijcai.org/proceedings/2019/0447.pdf)
-
-    *Hogun Park, Jennifer Neville.*
     
-1. **Exploiting Edge Features in Graph Neural Networks.** CVPR 2019. [paper](https://arxiv.org/pdf/1809.02709.pdf)
-
-    *Liyu Gong, Qiang Cheng.*  
-
 1. **HyperGCN: A New Method For Training Graph Convolutional Networks on Hypergraphs.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-850)
 
 	*Naganand Yadati, Madhav Nimishakavi, Prateek Yadav, Vikram Nitin, Anand Louis, Partha Talukdar.*
@@ -477,21 +474,21 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
 	*Ruochi Zhang, Yuesong Zou, Jian Ma.*
 
-### [Pooling Methods](#content)
+### [Organic Materials](#content)
 
 
 1. **StructPool: Structured Graph Pooling via Conditional Random Fields.** ICLR 2020. [paper](https://openreview.net/pdf?id=BJxg_hVtwH)
 
 	*Hao Yuan, Shuiwang Ji.*
 
-### [Analysis](#content)
+### [Inorganic Materials](#content)
 1. **A Comparison between Recursive Neural Networks and Graph Neural Networks.** IJCNN 2006. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1716174)
 
     *Vincenzo Di Massa, Gabriele Monfardini, Lorenzo Sarti, Franco Scarselli, Marco Maggini, Marco Gori.*
     
 
 
-### [Efficiency](#content)
+### [Pharmacy](#content)
 1. **Stochastic Training of Graph Convolutional Networks with Variance Reduction.** ICML 2018. [paper](http://www.scipaper.net/uploadfile/2018/0716/20180716100330880.pdf)
    
     *Jianfei Chen, Jun Zhu, Le Song.*
@@ -528,7 +525,7 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
 	*Sungyong Seo, Chuizheng Meng, Yan Liu.*
 
-### [Chemistry and Biology](#content)
+### [Biology](#content)
 
 1. **Convolutional networks on graphs for learning molecular fingerprints.** NIPS 2015. [paper](https://arxiv.org/pdf/1509.09292.pdf)
 
