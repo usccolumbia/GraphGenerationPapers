@@ -1,7 +1,7 @@
 # Must-read papers on Graph Generation models, algorithms and applications
 
 
-Contributed by Yuxin Li, Jianjun Hu et al.
+Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
 ## [Content](#content)
 
