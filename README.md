@@ -60,6 +60,8 @@ Contributed by Yuxin Li, Jianjun Hu et al.
 </table>
 
 ## [Survey papers](#content)
+1. Must read papers on graphical neural networks [link](https://github.com/thunlp/GNNPapers)
+
 1. **Introduction to Graph Neural Networks.** Synthesis Lectures on Artificial Intelligence and Machine Learning, Morgan & Claypool Publishers, 2020. [book](https://www.morganclaypool.com/doi/10.2200/S00980ED1V01Y202001AIM045)
 
     *Zhiyuan Liu, Jie Zhou.* 
