@@ -52,7 +52,7 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
     <td>&ensp;<a href="#knowledgegraph">Knowledge Graph</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#graph-mining">Graph mining</a></td>
+    <td>&emsp;<a href="#Music generation">Graph mining</a></td>
     <td>&ensp;<a href="#misc">Other applications</a></td>
 </tr>
 </table>
@@ -589,14 +589,14 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
 
 
-### [Protein design](#content)
+### [Biology](#content)
 
 1. **Inductive Matrix Completion Based on Graph Neural Networks.** ICLR 2020. [paper](https://openreview.net/pdf?id=ByxxgCEYDS)
 
 	*Muhan Zhang, Yixin Chen.*
 
 
-### [Computer Vision](#content)
+### [Media Generation](#content)
 1. **Graph Neural Networks for Object Localization.** ECAI 2006. [paper](http://ebooks.iospress.nl/volumearticle/2775)
 
     *Gabriele Monfardini, Vincenzo Di Massa, Franco Scarselli, Marco Gori.*
@@ -1063,11 +1063,18 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
 	*Ryoma Sato, Makoto Yamada, Hisashi Kashima.*
 
-### [Inorganic Materials Design](#content)
+### [Inorganic Materials](#content)
 
 1. **A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-5182)
 
 	*Xuanqing Liu, Si Si, Jerry Zhu, Yang Li, Cho-Jui Hsieh.*
+
+
+### [Organic Materials](#content)
+
+
+### [Chemistry](#content)
+
 
 ### [Graph Mining](#content)
 
