@@ -1357,8 +1357,8 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
     
 ### [SourceCode](#content)
 
-1. ** https://github.com/nyu-dl/conditional-molecular-design-ssvae
-	*Seokho Kang, Kyunghyun Cho
+1. ** https://github.com/nyu-dl/conditional-molecular-design-ssvae **
+	*Seokho Kang, Kyunghyun Cho*
 	
 1. ** https://github.com/bowenliu16/rl_graph_generation/tree/master/gym-molecule
 1. ** Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation
