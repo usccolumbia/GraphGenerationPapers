@@ -13,11 +13,11 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
     <td>&ensp;<a href="#graph-types">2.2 Graph Types</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#pooling-methods">2.3 Pooling Methods</a></td>
-    <td>&ensp;<a href="#analysis">2.4 Analysis</a></td>
+    <td>&emsp;<a href="#pooling-methods">2.3 VAE: Variational Autoencoder models</a></td>
+    <td>&ensp;<a href="#analysis">2.4 GAN: generative adversarial networks</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#efficiency">2.5 Efficiency</a></td>
+    <td>&emsp;<a href="#efficiency">2.5 Auto-regressive models</a></td>
     <td></td>
 </tr>
 <tr><td colspan="2"><a href="#applications">3. Applications</a></td></tr> 
