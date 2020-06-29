@@ -20,43 +20,34 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
     <td>&emsp;<a href="#efficiency">2.5 Auto-regressive models</a></td>
     <td></td>
 </tr>
-<tr><td colspan="2"><a href="#applications">3. Open source codes</a></td></tr> 
-	
-<tr><td colspan="2"><a href="#applications">3. Applications</a></td></tr> 
+<tr><td colspan="2"><a href="#sourcecode">3. Open source codes</a></td></tr> 
+
+<tr><td colspan="2"><a href="#benchmark">4. Benchmark Datasets</a></td></tr> 
+
+<tr><td colspan="2"><a href="#leaderboard">5. Leaderboards and SOTA performance</a></td></tr> 
+
+<tr><td colspan="2"><a href="#applications">6. Applications</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#physics">3.1 Physics</a></td>
-    <td>&ensp;<a href="#chemistry-and-biology">3.2 Chemistry</a></td>
+    <td>&emsp;<a href="#physics">6.1 Physics</a></td>
+    <td>&ensp;<a href="#chemistry">6.2 Chemistry</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#knowledge-graph">3.3 Knowledge Graph</a></td>
-    <td>&ensp;<a href="#recommender-systems">3.4 Protein design</a></td>
+    <td>&emsp;<a href="#biology">6.3 Biology</a></td>
+    <td>&ensp;<a href="#engineering">6.4 Engineering design: circuits/systems synthesis</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#computer-vision">3.5 Computer Vision</a></td>
-    <td>&ensp;<a href="#natural-language-processing">3.6 Natural Language Processing</a></td>
-</tr> 
-<tr>
-    <td>&emsp;<a href="#generation">3.7 Generation</a></td>
-    <td>&ensp;<a href="#combinatorial-optimization">3.8 Combinatorial Optimization</a></td>
-</tr> 
-<tr>
-    <td>&emsp;<a href="#adversarial-attack">3.9 Inorganic Materials Design</a></td>
-    <td>&ensp;<a href="#graph-clustering">3.10 Graph Clustering</a></td>
+    <td>&emsp;<a href="#media">6.5 Image/Video/Sound/Speech Synthesis </a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#graph-classification">3.11 Circuit Design</a></td>
-    <td>&ensp;<a href="#reinforcement-learning">3.12 Reinforcement Learning</a></td>
-</tr>
-<tr>
-    <td>&emsp;<a href="#traffic-network">3.13 Traffic Network design</a></td>
-    <td>&ensp;<a href="#few-shot-and-zero-shot-learning">3.14 Few-shot and Zero-shot Learning</a></td>
+    <td>&emsp;<a href="#language">3.13 Natural language generation</a></td>
+    <td>&ensp;<a href="#misc">3.14 Other applications</a></td>
 </tr>
 <tr>
     <td>&emsp;<a href="#program-representation">3.15 Program synthesis</a></td>
-    <td>&ensp;<a href="#social-network">3.16 Social Network</a></td>
+    <td>&ensp;<a href="#social-network">3.16 Knowledge Graph</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#graph-matching">3.17 Graph Matching</a></td>
+    <td>&emsp;<a href="#graph-mining">3.17 Graph mining</a></td>
     <td>&ensp;<a href="#computer-network">3.18 Computer Network design</a></td>
 </tr>
 </table>
