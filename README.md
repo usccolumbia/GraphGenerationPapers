@@ -418,25 +418,6 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
 	
 
-### [Organic-Materials](#content)
-
-
-1. **StructPool: Structured Graph Pooling via Conditional Random Fields.** ICLR 2020. [paper](https://openreview.net/pdf?id=BJxg_hVtwH)
-
-	*Hao Yuan, Shuiwang Ji.*
-
-### [Inorganic-Materials](#content)
-1. **A Comparison between Recursive Neural Networks and Graph Neural Networks.** IJCNN 2006. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1716174)
-
-    *Vincenzo Di Massa, Gabriele Monfardini, Lorenzo Sarti, Franco Scarselli, Marco Maggini, Marco Gori.*
-    
-
-
-### [Pharmacy](#content)
-1. **Stochastic Training of Graph Convolutional Networks with Variance Reduction.** ICML 2018. [paper](http://www.scipaper.net/uploadfile/2018/0716/20180716100330880.pdf)
-   
-    *Jianfei Chen, Jun Zhu, Le Song.*
-    
 
 
 
@@ -468,6 +449,13 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 1. **Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics.** ICLR 2020. [paper](https://openreview.net/pdf?id=r1gelyrtwH)
 
 	*Sungyong Seo, Chuizheng Meng, Yan Liu.*
+
+
+
+
+
+### [Chemistry](#content)
+
 
 ### [Biology](#content)
 
@@ -514,8 +502,28 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 1. **Retrosynthesis Prediction with Conditional Graph Logic Network.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-4761)
 
 	*Hanjun Dai, Chengtao Li, Connor Coley, Bo Dai, Le Song.*
+	
+	
+	
+### [Organic-Materials](#content)
 
 
+1. **StructPool: Structured Graph Pooling via Conditional Random Fields.** ICLR 2020. [paper](https://openreview.net/pdf?id=BJxg_hVtwH)
+
+	*Hao Yuan, Shuiwang Ji.*
+
+### [Inorganic-Materials](#content)
+1. **A Comparison between Recursive Neural Networks and Graph Neural Networks.** IJCNN 2006. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1716174)
+
+    *Vincenzo Di Massa, Gabriele Monfardini, Lorenzo Sarti, Franco Scarselli, Marco Maggini, Marco Gori.*
+    
+
+
+### [Pharmacy](#content)
+1. **Stochastic Training of Graph Convolutional Networks with Variance Reduction.** ICML 2018. [paper](http://www.scipaper.net/uploadfile/2018/0716/20180716100330880.pdf)
+   
+    *Jianfei Chen, Jun Zhu, Le Song.*
+    
 
 ### [Knowledge Graph](#content)
 
