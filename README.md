@@ -40,8 +40,8 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
     <td>&emsp;<a href="#Pharmacy">Pharmacy: drug design</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#media">Image/Video/Sound/Speech Synthesis </a></td>
-    <td>&emsp;<a href="#language">Natural language generation</a></td>
+    <td>&emsp;<a href="#Media Generation">Image/Video/Sound/Speech Synthesis </a></td>
+    <td>&emsp;<a href="#Language Synthesis">Natural language generation</a></td>
 </tr>
 <tr>
     <td>&emsp;<a href="#programs">Program synthesis</a></td>
@@ -589,7 +589,7 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
 
 
-### [Biology](#content)
+### [Other Applications](#content)
 
 1. **Inductive Matrix Completion Based on Graph Neural Networks.** ICLR 2020. [paper](https://openreview.net/pdf?id=ByxxgCEYDS)
 
@@ -881,7 +881,7 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
 </details>
 
-### [Natural Language Processing](#content)
+### [Language Synthesis](#content)
 
 
 
@@ -897,10 +897,6 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
     *Yuhao Zhang, Peng Qi, Christopher D. Manning.*
 
-1. **N-ary relation extraction using graph state LSTM.** EMNLP 18. [paper](https://arxiv.org/abs/1808.09101)
-
-    *Linfeng Song, Yue Zhang, Zhiguo Wang, Daniel Gildea.*
-
 1. **A Graph-to-Sequence Model for AMR-to-Text Generation.** ACL 2018. [paper](https://arxiv.org/abs/1805.02473)
 
     *Linfeng Song, Yue Zhang, Zhiguo Wang, Daniel Gildea.*
@@ -909,33 +905,10 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
     *Daniel Beck, Gholamreza Haffari, Trevor Cohn.*
 
-1. **Cross-Sentence N-ary Relation Extraction with Graph LSTMs.** TACL. [paper](https://arxiv.org/abs/1708.03743)
-
-    *Nanyun Peng, Hoifung Poon, Chris Quirk, Kristina Toutanova, Wen-tau Yih.*
-
-1. **Sentence-State LSTM for Text Representation.** ACL 2018. [paper](https://arxiv.org/abs/1805.02474)
-
-    *Yue Zhang, Qi Liu, Linfeng Song.*
-
-1. **End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures.** ACL 2016. [paper](https://arxiv.org/abs/1601.00770)
-
-    *Makoto Miwa, Mohit Bansal.*
 
 1. **Graph Convolutional Encoders for Syntax-aware Neural Machine Translation.** EMNLP 2017. [paper](https://arxiv.org/pdf/1704.04675)
 
     *Joost Bastings, Ivan Titov, Wilker Aziz, Diego Marcheggiani, Khalil Sima'an.* 
-
-1. **Semi-supervised User Geolocation via Graph Convolutional Networks.** ACL 2018. [paper](https://arxiv.org/pdf/1804.08049.pdf)
-
-    *Afshin Rahimi, Trevor Cohn, Timothy Baldwin.* 
-
-1. **Modeling Semantics with Gated Graph Neural Networks for Knowledge Base Question Answering.** COLING 2018. [paper](https://arxiv.org/pdf/1808.04126.pdf)
-
-    *Daniil Sorokin, Iryna Gurevych.* 
-
-1. **Graph Convolutional Networks for Text Classification.** AAAI 2019. [paper](https://arxiv.org/pdf/1809.05679.pdf)
-
-    *Liang Yao, Chengsheng Mao, Yuan Luo.* 
     
 <details><summary>more</summary>
 
@@ -1035,33 +1008,6 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
     *Zhuwen Li, Qifeng Chen, Vladlen Koltun.*
 
-1. **Learning a SAT Solver from Single-Bit Supervision.** ICLR 2019. [paper](https://arxiv.org/abs/1802.03685)
-
-    *Daniel Selsam, Matthew Lamm, Benedikt Bünz, Percy Liang, Leonardo de Moura, David L. Dill.*
-
-1. **A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Networks.** PADL 2017. [paper](https://www.padl.ws/papers/Paper%2017.pdf)
-
-    *Alex Nowak, Soledad Villar, Afonso S. Bandeira, Joan Bruna.*
-
-1. **Attention Solves Your TSP, Approximately.** 2018. [paper](https://arxiv.org/abs/1803.08475)
-
-    *Wouter Kool, Herke van Hoof, Max Welling.*
-
-1. **Learning to Solve NP-Complete Problems - A Graph Neural Network for Decision TSP.** AAAI 2019. [paper](https://arxiv.org/pdf/1809.02721.pdf)
-
-    *Marcelo O. R. Prates, Pedro H. C. Avelar, Henrique Lemos, Luis Lamb, Moshe Vardi.*
-
-1. **DAG-GNN: DAG Structure Learning with Graph Neural Networks.** ICML 2019. [paper](https://arxiv.org/pdf/1904.10098)
-
-    *Yue Yu, Jie Chen, Tian Gao, Mo Yu.*
-
-1. **Exact Combinatorial Optimization with Graph Convolutional Neural Networks.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-9029)
-
-	*Maxime Gasse, Didier Chetelat, Nicola Ferroni, Laurent Charlin, Andrea Lodi.*
-
-1. **Approximation Ratios of Graph Neural Networks for Combinatorial Problems.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-2252)
-
-	*Ryoma Sato, Makoto Yamada, Hisashi Kashima.*
 
 ### [Inorganic Materials](#content)
 
@@ -1094,10 +1040,6 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 1. **Motif-matching based Subgraph-level Attentional Convolution Network for Graph Classification.** AAAI 2020. [paper]()
 
 	*Hao Peng, Jianxin Li,  Qiran Gong, Yuanxing Ning, Senzhang Wang, Lifang He.*
-
-1. **InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization.** ICLR 2020. [paper](https://openreview.net/pdf?id=r1lfF2NYvH)
-
-	*Fan-Yun Sun, Jordan Hoffman, Vikas Verma, Jian Tang.*
 
 1. **A Fair Comparison of Graph Neural Networks for Graph Classification.** ICLR 2020. [paper](https://openreview.net/pdf?id=HygDF6NFPB)
 
