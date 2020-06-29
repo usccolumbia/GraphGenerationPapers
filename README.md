@@ -20,11 +20,11 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
     <td>&emsp;<a href="#efficiency">2.5 Auto-regressive models</a></td>
     <td></td>
 </tr>
-<tr><td colspan="2"><a href="#sourcecode">3. Open source codes</a></td></tr> 
+<tr><td colspan="2"><a href="#Source code">3. Open source codes</a></td></tr> 
 
 <tr><td colspan="2"><a href="#benchmark">4. Benchmark Datasets</a></td></tr> 
 
-<tr><td colspan="2"><a href="#leaderboard">5. Leaderboards and SOTA performance</a></td></tr> 
+<tr><td colspan="2"><a href="#Leaderboard">5. Leaderboards and SOTA performance</a></td></tr> 
 
 <tr><td colspan="2"><a href="#applications">6. Applications</a></td></tr> 
 <tr>
@@ -1384,3 +1384,15 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 1. **Unveiling the potential of Graph Neural Networks for network modeling and optimization in SDN.** ACM SOSR 2019. [paper](https://arxiv.org/pdf/1901.08113.pdf)
 
     *Krzysztof Rusek, José Suárez-Varela, Albert Mestres, Pere Barlet-Ros, Albert Cabellos-Aparicio.*
+    
+    
+### [Source Code](#content)
+1. **DyRep: Learning Representations over Dynamic Graphs.** ICLR 2019. [paper](https://openreview.net/pdf?id=HyePrhR5KX)
+
+    *Rakshit Trivedi, Mehrdad Farajtabar, Prasenjeet Biswal, Hongyuan Zha.*
+    
+    
+### [Leaderboard](#content)
+1. **DyRep: Learning Representations over Dynamic Graphs.** ICLR 2019. [paper](https://openreview.net/pdf?id=HyePrhR5KX)
+
+    *Rakshit Trivedi, Mehrdad Farajtabar, Prasenjeet Biswal, Hongyuan Zha.*
