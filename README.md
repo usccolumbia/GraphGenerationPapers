@@ -58,7 +58,19 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 </table>
 
 ## [Survey papers](#content)
-1. Must read papers on graphical neural networks [link](https://github.com/thunlp/GNNPapers)
+
+1. **Deep learning for molecular design—a review of the state of the art." Molecular Systems Design & Engineering 4, no. 4 (2019): 828-849**
+
+	Elton, Daniel C., Zois Boukouvalas, Mark D. Fuge, and Peter W. Chung. 
+	
+1. **"Graph Generators: State of the Art and Open Challenges." ACM Computing Surveys (CSUR) 53, no. 2 (2020): 1-30.**
+
+	Bonifati, Angela, Irena Holubová, Arnau Prat-Pérez, and Sherif Sakr. 
+	
+1. **Advances and challenges in deep generative models for de novo molecule generation**
+	Xue, Dongyu and Gong, Yukang and Yang, Zhaoyi and Chuai, Guohui and Qu, Sheng and Shen, Aizong and Yu, Jing and Liu, Qi
+
+1. **Must read papers on graphical neural networks [link](https://github.com/thunlp/GNNPapers)**
 
 1. **Introduction to Graph Neural Networks.** Synthesis Lectures on Artificial Intelligence and Machine Learning, Morgan & Claypool Publishers, 2020. [book](https://www.morganclaypool.com/doi/10.2200/S00980ED1V01Y202001AIM045)
 
@@ -82,21 +94,10 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
     *Bronstein, Michael M and Bruna, Joan and LeCun, Yann and Szlam, Arthur and Vandergheynst, Pierre.*
 
-1. **Computational Capabilities of Graph Neural Networks.** IEEE TNN 2009. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4703190)
-
-    *Scarselli, Franco and Gori, Marco and Tsoi, Ah Chung and Hagenbuchner, Markus and Monfardini, Gabriele.*
-
 1. **Neural Message Passing for Quantum Chemistry.** ICML 2017. [paper](https://arxiv.org/pdf/1704.01212.pdf)
 
     *Gilmer, Justin and Schoenholz, Samuel S and Riley, Patrick F and Vinyals, Oriol and Dahl, George E.*
 
-1. **Non-local Neural Networks.** CVPR 2018. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf)
-
-    *Wang, Xiaolong and Girshick, Ross and Gupta, Abhinav and He, Kaiming.*
-
-1. **The Graph Neural Network Model.** IEEE TNN 2009. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4700287)
-
-    *Scarselli, Franco and Gori, Marco and Tsoi, Ah Chung and Hagenbuchner, Markus and Monfardini, Gabriele.*
     
 1. **Benchmarking Graph Neural Networks.** arxiv 2020. [paper](https://arxiv.org/pdf/2003.00982.pdf)
 
