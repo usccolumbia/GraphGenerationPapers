@@ -1102,3 +1102,10 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 ### [Leaderboard](#content)
 
 
+https://github.com/usccolumbia/benchmarking-gnns/blob/master/docs/07_leaderboards.md
+
+### [Benchmark Datasets](#content)
+
+https://github.com/usccolumbia/benchmarking-gnns
+
+
