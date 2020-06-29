@@ -72,6 +72,13 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 1. **Advances and challenges in deep generative models for de novo molecule generation**
 	Xue, Dongyu and Gong, Yukang and Yang, Zhaoyi and Chuai, Guohui and Qu, Sheng and Shen, Aizong and Yu, Jing and Liu, Qi
 
+1. **Inverse molecular design using machine learning: Generative models for matter engineering." Science 361, no. 6400 (2018): 360-365.**
+
+	Sanchez-Lengeling, Benjamin, and Alán Aspuru-Guzik.	
+1. **Machine-enabled inverse design of inorganic solid materials: promises and challenges." Chemical Science 11, no. 19 (2020): 4871-4881.**
+
+	Noh, Juhwan, Geun Ho Gu, Sungwon Kim, and Yousung Jung
+
 
 1. **Graph Neural Networks: A Review of Methods and Applications.** arxiv 2018. [paper](https://arxiv.org/pdf/1812.08434.pdf)
    
