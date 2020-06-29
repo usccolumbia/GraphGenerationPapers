@@ -79,6 +79,7 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
 	Noh, Juhwan, Geun Ho Gu, Sungwon Kim, and Yousung Jung
 
+<hr>
 
 1. **Graph Neural Networks: A Review of Methods and Applications.** arxiv 2018. [paper](https://arxiv.org/pdf/1812.08434.pdf)
    
