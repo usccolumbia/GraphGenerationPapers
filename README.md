@@ -1355,8 +1355,8 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
     *Krzysztof Rusek, José Suárez-Varela, Albert Mestres, Pere Barlet-Ros, Albert Cabellos-Aparicio.*
     
     
-### [Source Code](#content)
-1. **DyRep: Learning Representations over Dynamic Graphs.** ICLR 2019. [paper](https://openreview.net/pdf?id=HyePrhR5KX)
+### [SourceCode](#content)
+
 1. ** https://github.com/nyu-dl/conditional-molecular-design-ssvae
 1. ** https://github.com/bowenliu16/rl_graph_generation/tree/master/gym-molecule
 1. ** Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation
