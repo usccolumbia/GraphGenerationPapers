@@ -1361,12 +1361,15 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
 	*Seokho Kang, Kyunghyun Cho*
 	
-1. ** https://github.com/bowenliu16/rl_graph_generation/tree/master/gym-molecule
-1. ** Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation
-1. ** Generating Focussed Molecule Libraries for Drug Discovery with Recurrent Neural Networks
+1. **Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation [link](https://github.com/bowenliu16/rl_graph_generation/tree/master/gym-molecule)**
+
+1. **Generating Focussed Molecule Libraries for Drug Discovery with Recurrent Neural Networks
 	[link](https://github.com/jaechanglim/molecule-generator)
-1. ** https://github.com/molecularsets/moses
-1. ** https://github.com/kevinid/molecule_generator
+	
+1. **https://github.com/molecularsets/moses
+
+1. **https://github.com/kevinid/molecule_generator
+
 1. ** https://github.com/chennnnnyize/Generative-Molecules
 1. ** https://github.com/jensengroup/mol_gen
 1. ** https://github.com/insilicomedicine/BiAAE
