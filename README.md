@@ -13,11 +13,11 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
     <td>&ensp;<a href="#graph-types">2.2 Graph Types</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#VAE">2.3 VAE: Variational Autoencoder models</a></td>
-    <td>&ensp;<a href="#GAN">2.4 GAN: generative adversarial networks</a></td>
+    <td>&emsp;<a href="#VAE-Models">2.3 VAE: Variational Autoencoder models</a></td>
+    <td>&ensp;<a href="#GAN-Models">2.4 GAN: generative adversarial networks</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#Autoregressive">2.5 Auto-regressive models</a></td>
+    <td>&emsp;<a href="#Autoregressive-Models">2.5 Auto-regressive models</a></td>
     <td></td>
 </tr>
 <tr><td colspan="2"><a href="#SourceCode">3. Open source codes</a></td></tr> 
