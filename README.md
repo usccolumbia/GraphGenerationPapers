@@ -549,85 +549,19 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
 
 ### [Media-Generation](#content)
-1. **Graph Neural Networks for Object Localization.** ECAI 2006. [paper](http://ebooks.iospress.nl/volumearticle/2775)
-
-    *Gabriele Monfardini, Vincenzo Di Massa, Franco Scarselli, Marco Gori.*
-
-1. **Learning Human-Object Interactions by Graph Parsing Neural Networks.** ECCV 2018. [paper](https://arxiv.org/pdf/1808.07962.pdf)
-
-    *Siyuan Qi, Wenguan Wang, Baoxiong Jia, Jianbing Shen, Song-Chun Zhu.*
-
-1. **Learning Conditioned Graph Structures for Interpretable Visual Question Answering.** NeurIPS 2018. [paper](https://arxiv.org/pdf/1806.07243)
-
-    *Will Norcliffe-Brown, Efstathios Vafeias, Sarah Parisot.*
-
-1. **Symbolic Graph Reasoning Meets Convolutions.** NeurIPS 2018. [paper](http://papers.nips.cc/paper/7456-symbolic-graph-reasoning-meets-convolutions.pdf)
-
-    *Xiaodan Liang, Zhiting Hu, Hao Zhang, Liang Lin, Eric P. Xing.*
-
-1. **Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering.** NeurIPS 2018. [paper](http://papers.nips.cc/paper/7531-out-of-the-box-reasoning-with-graph-convolution-nets-for-factual-visual-question-answering.pdf)
-
-    *Medhini Narasimhan, Svetlana Lazebnik, Alexander Schwing.*
 
 1. **Structural-RNN: Deep Learning on Spatio-Temporal Graphs.** CVPR 2016. [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf)
 
     *Ashesh Jain, Amir R. Zamir, Silvio Savarese, Ashutosh Saxena.*
 
-1. **Relation Networks for Object Detection.** CVPR 2018. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Hu_Relation_Networks_for_CVPR_2018_paper.pdf)
-
-    *Han Hu, Jiayuan Gu, Zheng Zhang, Jifeng Dai, Yichen Wei.*
-
-1. **Learning Region features for Object Detection.** ECCV 2018. [paper](https://arxiv.org/pdf/1803.07066)
-
-    *Jiayuan Gu, Han Hu, Liwei Wang, Yichen Wei, Jifeng Dai.*
-
 1. **The More You Know: Using Knowledge Graphs for Image Classification.** CVPR 2017. [paper](https://arxiv.org/pdf/1612.04844.pdf)
 
     *Kenneth Marino, Ruslan Salakhutdinov, Abhinav Gupta.* 
-
-1. **Understanding Kin Relationships in a Photo.** TMM 2012. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6151163)
-
-    *Siyu Xia, Ming Shao, Jiebo Luo, Yun Fu.* 
     
-1. **Graph-Structured Representations for Visual Question Answering.** CVPR 2017. [paper](https://arxiv.org/pdf/1609.05600.pdf)
-
-    *Damien Teney, Lingqiao Liu, Anton van den Hengel.* 
-
-1. **Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition.** AAAI 2018. [paper](https://arxiv.org/pdf/1801.07455.pdf)
-
-    *Sijie Yan, Yuanjun Xiong, Dahua Lin.* 
-
-1. **Dynamic Graph CNN for Learning on Point Clouds.** CVPR 2018. [paper](https://arxiv.org/pdf/1801.07829.pdf)
-
-    *Yue Wang, Yongbin Sun, Ziwei Liu, Sanjay E. Sarma, Michael M. Bronstein, Justin M. Solomon.* 
-
 1. **PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation.** CVPR 2018. [paper](https://arxiv.org/pdf/1612.00593.pdf)
    
     *Charles R. Qi, Hao Su, Kaichun Mo, Leonidas J. Guibas.* 
 
-1. **3D Graph Neural Networks for RGBD Semantic Segmentation.** CVPR 2017. [paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Qi_3D_Graph_Neural_ICCV_2017_paper.pdf)
-
-    *Xiaojuan Qi, Renjie Liao, Jiaya Jia, Sanja Fidler, Raquel Urtasun.* 
-
-1. **Iterative Visual Reasoning Beyond Convolutions.** CVPR 2018. [paper](https://arxiv.org/pdf/1803.11189)
-
-    *Xinlei Chen, Li-Jia Li, Li Fei-Fei, Abhinav Gupta.* 
-
-1. **Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs.** CVPR 2017. [paper](https://arxiv.org/pdf/1704.02901)
-
-    *Martin Simonovsky, Nikos Komodakis.* 
-
-1. **Situation Recognition with Graph Neural Networks.** ICCV 2017. [paper](https://arxiv.org/pdf/1708.04320)
-
-    *Ruiyu Li, Makarand Tapaswi, Renjie Liao, Jiaya Jia, Raquel Urtasun, Sanja Fidler.* 
-
-1. **Deep Reasoning with Knowledge Graph for Social Relationship Understanding.** IJCAI 2018. [paper](https://arxiv.org/pdf/1807.00504.pdf)
-
-    *Zhouxia Wang, Tianshui Chen, Jimmy Ren, Weihao Yu, Hui Cheng, Liang Lin.* 
-
-1. **I Know the Relationships: Zero-Shot Action Recognition via Two-Stream Graph Convolutional Networks and Knowledge Graphs.** AAAI 2019. [paper](http://nlpr-web.ia.ac.cn/mmc/homepage/jygao/JY_Gao_files/Conference_Papers/AAAI2019-GJY.pdf)
-   
-    *Junyu Gao, Tianzhu Zhang, Changsheng Xu.*
     
 <details><summary>more</summary>
 
@@ -658,35 +592,11 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 1. **Knowledge-Embedded Routing Network for Scene Graph Generation.** CVPR 2019. [paper](https://arxiv.org/pdf/1903.03326.pdf)
 
     *Tianshui Chen, Weihao Yu, Riquan Chen, Liang Lin.*
-    
-1. **Auto-Encoding Scene Graphs for Image Captioning.** CVPR 2019. [paper](https://arxiv.org/pdf/1812.02378.pdf)
-
-    *Xu Yang, Kaihua Tang, Hanwang Zhang, Jianfei Cai.*
-    
-1. **Learning to Cluster Faces on an Affinity Graph.** CVPR 2019. [paper](https://arxiv.org/pdf/1904.02749.pdf)
-
-    *Lei Yang, Xiaohang Zhan, Dapeng Chen, Junjie Yan, Chen Change Loy, Dahua Lin.*
-    
-1. **Learning a Deep ConvNet for Multi-label Classification with Partial Labels.** CVPR 2019. [paper](https://arxiv.org/pdf/1902.09720.pdf)
-
-    *Thibaut Durand, Nazanin Mehrasa, Greg Mori.*
-    
-1. **Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection.** CVPR 2019. [paper](https://arxiv.org/pdf/1903.07256.pdf)
-
-    *Jia-Xing Zhong, Nannan Li, Weijie Kong, Shan Liu, Thomas H. Li, Ge Li.*
-    
-1. **Learning Actor Relation Graphs for Group Activity Recognition.** CVPR 2019. [paper](https://arxiv.org/pdf/1904.10117.pdf)
-
-    *Jianchao Wu, Limin Wang, Li Wang, Jie Guo, Gangshan Wu.*
-    
+        
 1. **ABC: A Big CAD Model Dataset For Geometric Deep Learning.** CVPR 2019. [paper](https://arxiv.org/pdf/1812.06216.pdf)
 
     *Sebastian Koch, Albert Matveev, Zhongshi Jiang, Francis Williams, Alexey Artemov, Evgeny Burnaev, Marc Alexa, Denis Zorin, Daniele Panozzo.*
-    
-1. **Neighbourhood Watch: Referring Expression Comprehension via Language-guided Graph Attention Networks.** CVPR 2019. [paper](https://arxiv.org/pdf/1812.04794.pdf)
-
-    *Peng Wang, Qi Wu, Jiewei Cao, Chunhua Shen, Lianli Gao, Anton van den Hengel.*
-    
+        
 1. **Graph-Based Global Reasoning Networks.** CVPR 2019. [paper](https://arxiv.org/pdf/1811.12814.pdf)
 
     *Yunpeng Chen, Marcus Rohrbach, Zhicheng Yan, Shuicheng Yan, Jiashi Feng, Yannis Kalantidis.*
@@ -751,14 +661,6 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
     *Lei Shi, Yifan Zhang, Jian Cheng, Hanqing Lu.*
     
-1. **Neural Module Networks.** CVPR 2016. [paper](https://arxiv.org/pdf/1511.02799.pdf)
-
-    *Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein.*
-
-1. **LatentGNN: Learning Efficient Non-local Relations for Visual Recognition.** ICML 2019. [paper](https://arxiv.org/pdf/1905.11634)
-
-    *Songyang Zhang, Shipeng Yan, Xuming He.*
-
 1. **Graph Convolutional Gaussian Processes.** ICML 2019. [paper](https://arxiv.org/pdf/1905.05739)
 
     *Ian Walker, Ben Glocker.*
@@ -767,29 +669,9 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
     *Edward J. Smith, Scott Fujimoto, Adriana Romero, David Meger.*
 
-1. **Learning Cross­‐modal Context Graph Networks for Visual Grounding.** AAAI 2020. [paper](https://arxiv.org/abs/1911.09042)
-
-	*Yongfei Liu, Bo Wan, Xiaodan Zhu, Xuming He.*
-
 1. **Zero­‐Shot Sketch-based Image Retrieval via Graph Convolution Network.** AAAI 2020. [paper]()
 
 	*Zhaolong Zhang, Yuejie Zhang, Rui Feng, Tao Zhang, Weiguo Fan.*
-
-1. **Hybrid Graph Neural Networks for Crowd Counting.** AAAI 2020. [paper](https://arxiv.org/pdf/2002.00092)
-
-	*Ao Luo, Fan Yang, Xin Li, Dong Nie, Zhicheng Jiao, Shangchen Zhou, Hong Cheng.*
-
-1. **Learning Graph Convolutional Network for Skeleton-­‐based Human Action Recognition by Neural Searching.** AAAI 2020. [paper](https://arxiv.org/abs/1911.04131)
-
-	*Wei Peng, Xiaopeng Hong, Haoyu Chen, Guoying Zhao.*
-
-1. **STEP: Spatial Temporal Graph Convolutional Networks for Emotion Perception from Gaits.** AAAI 2020. [paper](https://arxiv.org/abs/1910.12906)
-
-	*Uttaran Bhattacharya, Trisha Mittal, Rohan Chandra, Tanmay Randhavane, Aniket Bera, Dinesh Manocha.*
-
-1. **Relation‐Aware Pedestrian Attribute Recognition with Graph Convolutional Networks.** AAAI 2020. [paper]()
-
-	*Zichang Tan, Yang Yang, Jun Wan, Stan Li.*
 
 1. **Deep Generative Probabilistic Graph Neural Networks for Scene Graph Generation.** AAAI 2020. [paper](https://grlearning.github.io/papers/135.pdf)
 
