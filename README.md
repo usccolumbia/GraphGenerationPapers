@@ -1,4 +1,4 @@
-# Must-read papers on Deep Learning Graph Generation:<br>
+# Must-read papers on Deep Learning Graph Generation:\\
 models, algorithms and applications
 
 
