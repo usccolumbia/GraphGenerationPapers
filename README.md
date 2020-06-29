@@ -28,27 +28,28 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
 <tr><td colspan="2"><a href="#applications">6. Applications</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#physics">6.1 Physics</a></td>
-    <td>&ensp;<a href="#chemistry">6.2 Chemistry</a></td>
+    <td>&emsp;<a href="#physics">Physics</a></td>
+    <td>&ensp;<a href="#chemistry">Chemistry</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#biology">6.3 Biology</a></td>
-    <td>&ensp;<a href="#engineering">6.4 Engineering design: circuits/systems synthesis</a></td>
+    <td>&emsp;<a href="#biology">Biology</a></td>
+    <td>&emsp;<a href="#biology">Pharmacy: drug design</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#media">6.5 Image/Video/Sound/Speech Synthesis </a></td>
+    <td>&emsp;<a href="#media">Image/Video/Sound/Speech Synthesis </a></td>
+    <td>&emsp;<a href="#language">Natural language generation</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#language">3.13 Natural language generation</a></td>
-    <td>&ensp;<a href="#misc">3.14 Other applications</a></td>
+    <td>&ensp;<a href="#engineering">Engineering design: circuits/systems synthesis</a></td>
+    <td>&ensp;<a href="#computer-network">Computer Network design</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#program-representation">3.15 Program synthesis</a></td>
-    <td>&ensp;<a href="#social-network">3.16 Knowledge Graph</a></td>
+    <td>&emsp;<a href="#programs">Program synthesis</a></td>
+    <td>&ensp;<a href="#knowledgegraph">Knowledge Graph</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#graph-mining">3.17 Graph mining</a></td>
-    <td>&ensp;<a href="#computer-network">3.18 Computer Network design</a></td>
+    <td>&emsp;<a href="#graph-mining">Graph mining</a></td>
+    <td>&ensp;<a href="#misc">Other applications</a></td>
 </tr>
 </table>
 
