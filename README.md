@@ -32,16 +32,16 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
     <td>&ensp;<a href="#chemistry">Chemistry</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#Organic Materials">Organic Materials</a></td>
-    <td>&emsp;<a href="#Inorganic Materials">Inorganic Materials</a></td>
+    <td>&emsp;<a href="#Organic-Materials">Organic Materials</a></td>
+    <td>&emsp;<a href="#Inorganic-Materials">Inorganic Materials</a></td>
 </tr>
 <tr>
     <td>&emsp;<a href="#biology">Biology</a></td>
     <td>&emsp;<a href="#Pharmacy">Pharmacy: drug design</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#Media Generation">Image/Video/Sound/Speech Synthesis </a></td>
-    <td>&emsp;<a href="#Language Synthesis">Natural language generation</a></td>
+    <td>&emsp;<a href="#Media-Generation">Image/Video/Sound/Speech Synthesis </a></td>
+    <td>&emsp;<a href="#Language-Synthesis">Natural language generation</a></td>
 </tr>
 <tr>
     <td>&emsp;<a href="#programs">Program synthesis</a></td>
@@ -52,7 +52,7 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
     <td>&ensp;<a href="#knowledgegraph">Knowledge Graph</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#Music generation">Graph mining</a></td>
+    <td>&emsp;<a href="#Music-generation">Graph mining</a></td>
     <td>&ensp;<a href="#misc">Other applications</a></td>
 </tr>
 </table>
@@ -596,7 +596,7 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 	*Muhan Zhang, Yixin Chen.*
 
 
-### [Media Generation](#content)
+### [Media-Generation](#content)
 1. **Graph Neural Networks for Object Localization.** ECAI 2006. [paper](http://ebooks.iospress.nl/volumearticle/2775)
 
     *Gabriele Monfardini, Vincenzo Di Massa, Franco Scarselli, Marco Gori.*
@@ -881,7 +881,7 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
 </details>
 
-### [Language Synthesis](#content)
+### [Language-Synthesis](#content)
 
 
 
@@ -1009,14 +1009,14 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
     *Zhuwen Li, Qifeng Chen, Vladlen Koltun.*
 
 
-### [Inorganic Materials](#content)
+### [Inorganic-Materials](#content)
 
 1. **A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-5182)
 
 	*Xuanqing Liu, Si Si, Jerry Zhu, Yang Li, Cho-Jui Hsieh.*
 
 
-### [Organic Materials](#content)
+### [Organic-Materials](#content)
 
 
 ### [Chemistry](#content)
