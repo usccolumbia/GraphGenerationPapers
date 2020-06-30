@@ -116,25 +116,6 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 ## [Models](#content)   
 
 ### [Basic Models](#content)
-1. **Supervised Neural Networks for the Classification of Structures.** IEEE TNN 1997. [paper](https://ieeexplore.ieee.org/abstract/document/572108)
-
-    *Alessandro Sperduti and Antonina Starita.*
-
-1. **Graphical-Based Learning Environments for Pattern Recognition.** SSPR/SPR 2004. [paper](https://link.springer.com/content/pdf/10.1007%2F978-3-540-27868-9_4.pdf)
-
-    *Franco Scarselli, Ah Chung Tsoi, Marco Gori, Markus Hagenbuchner.*
-
-1. **A new model for learning in graph domains.** IJCNN 2005. [paper](https://www.researchgate.net/profile/Franco_Scarselli/publication/4202380_A_new_model_for_earning_in_raph_domains/links/0c9605188cd580504f000000.pdf)
-
-    *Marco Gori, Gabriele Monfardini, Franco Scarselli.*
-
-1. **Graph Neural Networks for Ranking Web Pages.** WI 2005. [paper](https://www.researchgate.net/profile/Franco_Scarselli/publication/221158677_Graph_Neural_Networks_for_Ranking_Web_Pages/links/0c9605188cd5090ede000000/Graph-Neural-Networks-for-Ranking-Web-Pages.pdf)
-
-    *Franco Scarselli, Sweah Liang Yong, Marco Gori, Markus Hagenbuchner, Ah Chung Tsoi, Marco Maggini.*
-
-1. **Neural Network for Graphs: A Contextual Constructive Approach.** IEEE TNN 2009. [paper](https://ieeexplore.ieee.org/abstract/document/4773279)
-
-    *Alessio Micheli.*
     
 1. **Spectral Networks and Locally Connected Networks on Graphs.** ICLR 2014. [paper](https://arxiv.org/pdf/1312.6203.pdf)
 
@@ -144,38 +125,21 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
     *Mikael Henaff, Joan Bruna, Yann LeCun.*
     
-1. **Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering.** NIPS 2016. [paper](http://papers.nips.cc/paper/6081-convolutional-neural-networks-on-graphs-with-fast-localized-spectral-filtering.pdf)
-
-    *Michaël Defferrard, Xavier Bresson, Pierre Vandergheynst.*
-
 1. **Diffusion-Convolutional Neural Networks.** NIPS 2016. [paper](https://arxiv.org/pdf/1511.02136.pdf)
 
     *James Atwood, Don Towsley.*
-    
-1. **Gated Graph Sequence Neural Networks.** ICLR 2016. [paper](https://arxiv.org/pdf/1511.05493.pdf)
-
-    *Yujia Li, Daniel Tarlow, Marc Brockschmidt, Richard Zemel.*
-    
+        
 1. **Learning Convolutional Neural Networks for Graphs.** ICML 2016. [paper](http://proceedings.mlr.press/v48/niepert16.pdf)
 
     *Mathias Niepert, Mohamed Ahmed, Konstantin Kutzkov.* 
     
-
     
 
 <details><summary> more </summary> 
 
-21. **Bayesian Semi-supervised Learning with Graph Gaussian Processes.** NeurIPS 2018. [paper](https://arxiv.org/pdf/1809.04379)
-
-    *Yin Cheng Ng, Nicolò Colombo, Ricardo Silva.*
-
 22. **Adaptive Graph Convolutional Neural Networks.** AAAI 2018. [paper](https://arxiv.org/pdf/1801.03226.pdf)
 
     *Ruoyu Li, Sheng Wang, Feiyun Zhu, Junzhou Huang.*  
-
-1. **Learning Steady-States of Iterative Algorithms over Graphs.** ICML 2018. [paper](http://proceedings.mlr.press/v80/dai18a/dai18a.pdf)
-
-    *Hanjun Dai, Zornitsa Kozareva, Bo Dai, Alex Smola, Le Song.*
 
 1. **Graph Capsule Convolutional Neural Networks.** ICML 2018 Workshop. [paper](https://arxiv.org/pdf/1805.08090.pdf)
 
@@ -185,26 +149,9 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
     *Zhang Xinyi, Lihui Chen.*
     
-1. **Graph Wavelet Neural Network.** ICLR 2019. [paper](https://openreview.net/pdf?id=H1ewdiR5tQ)
-
-    *Bingbing Xu, Huawei Shen, Qi Cao, Yunqi Qiu, Xueqi Cheng.*
-
-1. **Deep Graph Infomax.** ICLR 2019. [paper](https://openreview.net/pdf?id=rklz9iAcKQ)
-
-    *Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm.*
-    
-1. **Predict then Propagate: Graph Neural Networks meet Personalized PageRank.** ICLR 2019. [paper](https://openreview.net/pdf?id=H1gL-2A9Ym)
-
-    *Johannes Klicpera, Aleksandar Bojchevski, Stephan Günnemann.*
-
 1. **LanczosNet: Multi-Scale Deep Graph Convolutional Networks.** ICLR 2019. [paper](https://openreview.net/pdf?id=BkedznAqKQ)
 
     *Renjie Liao, Zhizhen Zhao, Raquel Urtasun, Richard Zemel.*
-
-1. **Invariant and Equivariant Graph Networks.** ICLR 2019. [paper](https://openreview.net/pdf?id=Syx72jC9tm)
-
-    *Haggai Maron, Heli Ben-Hamu, Nadav Shamir, Yaron Lipman.*
-
     
 1. **Position-aware Graph Neural Networks.** ICML 2019. [paper](https://arxiv.org/pdf/1906.04817)
 
