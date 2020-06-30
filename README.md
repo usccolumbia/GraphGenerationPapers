@@ -123,7 +123,7 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
   [[pdf]](link) 
   [[code]](link)
   
-  *Author 1, Author 2, and Author 3* 
+	*Author 1, Author 2, and Author 3* 
   
 
 1. **Spectral Networks and Locally Connected Networks on Graphs.** ICLR 2014. [paper](https://arxiv.org/pdf/1312.6203.pdf)
