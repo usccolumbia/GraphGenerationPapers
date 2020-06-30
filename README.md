@@ -119,7 +119,7 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
 ### [Basic Models](#content)
     
-- Paper Name. 
+1. **Paper Name**
   [[pdf]](link) 
   [[code]](link)
   - Author 1, Author 2, and Author 3. *Conference Year*
