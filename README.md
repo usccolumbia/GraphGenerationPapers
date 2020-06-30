@@ -680,6 +680,9 @@ Images/Videos/Sounds/Speech
 1. **ORGAN:Objective Reinforced General Adversarial Network for de novo molecule generation. 2019**
 	[code](https://github.com/haroon03/ORGAN-molecule)
 
+1. **DrugAI** 
+	[code](https://github.com/Gananath/DrugAI)
+	- LSTM, GAN, WGAN models.SMILES
 
 1. **https://github.com/molecularsets/moses**
 
