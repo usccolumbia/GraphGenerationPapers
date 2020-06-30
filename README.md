@@ -45,10 +45,10 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 </tr>
 <tr>
     <td>&emsp;<a href="#programs">Program synthesis</a></td>
-    <td>&ensp;<a href="#computer-network">Computer Network design</a></td>
+    <td>&ensp;<a href="#computer-network"> Causal graph discovery</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#engineering">Engineering design: circuits/systems synthesis</a></td>
+    <td>&ensp;<a href="#engineering">Engineering design: circuits/systems</a></td>
     <td>&ensp;<a href="#knowledgegraph">Knowledge Graph</a></td>
 </tr> 
 <tr>
