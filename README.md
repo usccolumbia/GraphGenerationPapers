@@ -309,7 +309,13 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
 ### [Physics](#content)
 
+1. **MR-GNN: Multi-Resolution and Dual Graph Neural Network for Predicting Structured Entity Interactions.** IJCAI 2019. [paper](https://arxiv.org/pdf/1905.09558.pdf)
 
+    *Nuo Xu, Pinghui Wang, Long Chen, Jing Tao, Junzhou Zhao.*
+
+1. **A Generative Model For Electron Paths.** ICLR 2019. [paper](https://openreview.net/pdf?id=r1x4BnCqKX)
+
+    *John Bradshaw, Matt J. Kusner, Brooks Paige, Marwin H. S. Segler, José Miguel Hernández-Lobato.*
 
 
 1. **Interaction Networks for Learning about Objects, Relations and Physics.** NIPS 2016. [paper](https://arxiv.org/pdf/1612.00222.pdf)
@@ -330,42 +336,37 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
 ### [Chemistry](#content)
 
-
-### [Biology](#content)
-
-
-1. **Spectral Multigraph Networks for Discovering and Fusing Relationships in Molecules.** NeurIPS Workshop 2018. [paper](https://arxiv.org/pdf/1811.09595.pdf)
-
-    *Boris Knyazev, Xiao Lin, Mohamed R. Amer, Graham W. Taylor.*
-
-1. **MR-GNN: Multi-Resolution and Dual Graph Neural Network for Predicting Structured Entity Interactions.** IJCAI 2019. [paper](https://arxiv.org/pdf/1905.09558.pdf)
-
-    *Nuo Xu, Pinghui Wang, Long Chen, Jing Tao, Junzhou Zhao.*
-
 1. **Graph Transformation Policy Network for Chemical Reaction Prediction.** KDD 2019. [paper](https://arxiv.org/pdf/1812.09441)
 
     *Kien Do, Truyen Tran, Svetha Venkatesh.*
+    
+1. **Spectral Multigraph Networks for Discovering and Fusing Relationships in Molecules.** NeurIPS Workshop 2018. [paper](https://arxiv.org/pdf/1811.09595.pdf)
 
+    *Boris Knyazev, Xiao Lin, Mohamed R. Amer, Graham W. Taylor.*
+    
 1. **Learning Multimodal Graph-to-Graph Translation for Molecular Optimization.** ICLR 2019. [paper](https://openreview.net/pdf?id=B1xJAsA5F7)
 
-    *Wengong Jin, Kevin Yang, Regina Barzilay, Tommi Jaakkola.*
-
-1. **A Generative Model For Electron Paths.** ICLR 2019. [paper](https://openreview.net/pdf?id=r1x4BnCqKX)
-
-    *John Bradshaw, Matt J. Kusner, Brooks Paige, Marwin H. S. Segler, José Miguel Hernández-Lobato.*
-
+    *Wengong Jin, Kevin Yang, Regina Barzilay, Tommi Jaakkola.*    
+    
 1. **Retrosynthesis Prediction with Conditional Graph Logic Network.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-4761)
 
-	*Hanjun Dai, Chengtao Li, Connor Coley, Bo Dai, Le Song.*
+	*Hanjun Dai, Chengtao Li, Connor Coley, Bo Dai, Le Song.*    
+    
+    
+### [Biology](#content)
+
+
+
+
+
 	
 	
 	
 ### [Organic-Materials](#content)
 
 
-1. **StructPool: Structured Graph Pooling via Conditional Random Fields.** ICLR 2020. [paper](https://openreview.net/pdf?id=BJxg_hVtwH)
 
-	*Hao Yuan, Shuiwang Ji.*
+
 
 ### [Inorganic-Materials](#content)
 1. **A Comparison between Recursive Neural Networks and Graph Neural Networks.** IJCNN 2006. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1716174)
