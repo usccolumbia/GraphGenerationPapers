@@ -513,10 +513,10 @@ fingerprints. Journal of computer-aided molecular design. 2016***  [pdf](https:/
         *Matt J. Kusner, Brooks Paige, José Miguel Hernández-Lobato*
 188. **Constrained graph variational autoencoders for molecule design. Advances in neural information processing systems. 2018**
   [pdf](https://papers.nips.cc/paper/8005-constrained-graph-variational-autoencoders-for-molecule-design.pdf)   [code](https://github.com/microsoft/constrained-graph-variational-autoencoder)
-   *Qi Liu, Miltiadis Allamanis, Marc Brockschmidt, Alexander L. Gaunt*
+        *Qi Liu, Miltiadis Allamanis, Marc Brockschmidt, Alexander L. Gaunt*
 189. **Molecular sets (MOSES): a benchmarking platform for molecular generation models. arXiv preprint arXiv:1811.12823. 2018**
   [pdf](https://arxiv.org/pdf/1811.12823)   [code](https://github.com/ulamaca/moses)
-   *Daniil Polykovskiy, Alexander Zhebrak, Benjamin Sanchez-Lengeling, Sergey Golovanov, Oktai Tatanov, Stanislav Belyaev, Rauf Kurbanov, Aleksey Artamonov, Vladimir Aladinskiy, Mark Veselov, Artur Kadurin, Simon Johansson, Hongming Chen, Sergey Nikolenko, Alan Aspuru-Guzik, Alex Zhavoronkov*
+        *Daniil Polykovskiy, Alexander Zhebrak, Benjamin Sanchez-Lengeling, Sergey Golovanov, Oktai Tatanov, Stanislav Belyaev, Rauf Kurbanov, Aleksey Artamonov, Vladimir Aladinskiy, Mark Veselov, Artur Kadurin, Simon Johansson, Hongming Chen, Sergey Nikolenko, Alan Aspuru-Guzik, Alex Zhavoronkov*
 190. **Exploration of databases and methods supporting drug repurposing: a comprehensive survey. Briefings in Bioinformatics. 2020**
   [pdf](https://academic.oup.com/bib/advance-article-pdf/doi/10.1093/bib/bbaa003/32451841/bbaa003.pdf)   
         *Ziaurrehman Tanoli, Umair Seemab, Andreas Scherer, Krister Wennerberg, Jing Tang, Markus Vähä-Koskela*
