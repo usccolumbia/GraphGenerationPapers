@@ -1,10 +1,10 @@
 1. **Scaffold-based molecular design with a graph generative model. Chemical Science 2020** [paper](https://arxiv.org/pdf/1905.13639)
-		*Lim, J.; Hwang, S.Y.; Moon, S.; Kim, S.; Kim, W.Y.* 
+        *Lim, J.; Hwang, S.Y.; Moon, S.; Kim, S.; Kim, W.Y.* 
 		
 2.  **DeepGraphMol, a multi-objective, computational strategy for generating molecules with desirable properties: a graph convolution and reinforcement learning approach. BioRxiv 2020** [paper](https://www.biorxiv.org/content/biorxiv/early/2020/06/10/2020.05.25.114165.full.pdf)
-		*Khemchandani, Y.; O’hagan, S.; Samanta, S.; Swainston, N.; Roberts, T.J.; Bollegala, D.; Kell*
+        *Khemchandani, Y.; O’hagan, S.; Samanta, S.; Swainston, N.; Roberts, T.J.; Bollegala, D.; Kell*
 3. **Autonomous discovery in the chemical sciences part II: Outlook.Angewandte Chemie International Edition 2019** [paper](https://arxiv.org/pdf/2003.13755.pdf)
-		Coley, C.W.; Eyke, N.S.; Jensen, K.F. 
+        Coley, C.W.; Eyke, N.S.; Jensen, K.F. 
 4. **The power of deep learning to ligand-based novel drug discovery. Expert Opinion on Drug Discovery** 2020. [paper](https://www.tandfonline.com/doi/abs/10.1080/17460441.2020.1745183)
         Baskin, I.I. 
 5. **Deep Generative Models for 3D Linker Design.Journal of chemical information and modeling 2020** [paper](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b01120)
