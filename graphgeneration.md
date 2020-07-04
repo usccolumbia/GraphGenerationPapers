@@ -1,5 +1,5 @@
 1. **Scaffold-based molecular design with a graph generative model. Chemical Science 2020** 
-[paper](https://arxiv.org/pdf/1905.13639)
+  [paper](https://arxiv.org/pdf/1905.13639)
 	*Lim, J.; Hwang, S.Y.; Moon, S.; Kim, S.; Kim, W.Y.* 
 		
 2.  **DeepGraphMol, a multi-objective, computational strategy for generating molecules with desirable properties: a graph convolution and reinforcement learning approach. BioRxiv 2020** [paper](https://www.biorxiv.org/content/biorxiv/early/2020/06/10/2020.05.25.114165.full.pdf)
