@@ -868,13 +868,13 @@ arXiv preprint arXiv:1901.09674 2019.
          Honda, S.; Akita, H.; Ishiguro, K.; Nakanishi, T.; Oono, K.
 302. **Deep Generative Model for Sparse Graphs using Text-Based Learning with Augmentation in Generative Examination Networks. arXiv preprint arXiv:1909.11472 2019.Materials 2020, xx, 5 28 of 29**[paper](https://arxiv.org/pdf/1909.11472)<br>
         van Deursen, R.; Godin, G.
-303.** Fast approximate geodesics for deep generative models. International Conference on Artificial Neural Networks. Springer, 2019, pp. 554–566.**
+303. ** Fast approximate geodesics for deep generative models. International Conference on Artificial Neural Networks. Springer, 2019, pp. 554–566.**
          Chen, N.; Ferroni, F.; Klushyn, A.; Paraschos, A.; Bayer, J.; van der Smagt, P.[paper](https://arxiv.org/pdf/1812.08284)<br>
-304.**Learning functional causal models with generative neural networks. In Explainable and Interpretable Models in Computer Vision and Machine Learning; Springer, 2018; pp. 39–80.**[paper](https://arxiv.org/pdf/1709.05321)<br>
+304. **Learning functional causal models with generative neural networks. In Explainable and Interpretable Models in Computer Vision and Machine Learning; Springer, 2018; pp. 39–80.**[paper](https://arxiv.org/pdf/1709.05321)<br>
          Goudet, O.; Kalainathan, D.; Caillou, P.; Guyon, I.; Lopez-Paz, D.; Sebag, M.
 305. **Gan lab: Understanding complex deep generative models using interactive visual experimentation. IEEE transactions on visualization and computer graphics 2018, 25, 1–11.**[paper](https://ieeexplore.ieee.org/iel7/2945/8547224/08440049.pdf)<br>
         Kahng, M.; Thorat, N.; Chau, D.H.P.; Viégas, F.B.; Wattenberg, M. 
-306.**Towards quantitative methods to assess network generative models. arXiv preprint arXiv:1809.01369 2018.**[paper](https://arxiv.org/pdf/1809.01369)<br>
+306. **Towards quantitative methods to assess network generative models. arXiv preprint arXiv:1809.01369 2018.**[paper](https://arxiv.org/pdf/1809.01369)<br>
          Mostofi, V.; Aliakbary, S.
 307. **Semi-supervised learning on graphs with generative adversarial nets. Proceedings of the 27th ACM International Conference on Information and Knowledge Management, 2018, pp. 913–922.**[paper](https://arxiv.org/pdf/1809.00130)<br>
         Ding, M.; Tang, J.; Zhang, J.
