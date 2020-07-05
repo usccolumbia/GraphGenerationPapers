@@ -793,7 +793,7 @@ fingerprints. Journal of computer-aided molecular design. 2016***  [pdf](https:/
 279. **Bayesian optimization on large graphs via a graph convolutional generative model: Application in cardiac model personalization. International Materials 2020, xx, 5 27 of 29 Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, 2019, pp. 458–467.**
     [pdf](http://arxiv.org/pdf/1907.01406.pdf)<br>
         *Dhamala, J.; Ghimire, S.; Sapp, J.L.; Horáˇcek, B.M.; Wang, L.*
-280.**Network-principled deep generative models for designing drug combinations as graph sets. arXiv preprint arXiv:2004.07782 2020.**
+280. **Network-principled deep generative models for designing drug combinations as graph sets. arXiv preprint arXiv:2004.07782 2020.**
     [pdf](https://arxiv.org/pdf/2004.07782.pdf)
     [code](https://github.com/Shen-Lab/Drug-Combo-Generator)<br>
         *Karimi, M.; Hasanzadeh, A.; others.*
@@ -867,8 +867,8 @@ arXiv preprint arXiv:1901.09674 2019.
          Honda, S.; Akita, H.; Ishiguro, K.; Nakanishi, T.; Oono, K.
 302. **Deep Generative Model for Sparse Graphs using Text-Based Learning with Augmentation in Generative Examination Networks. arXiv preprint arXiv:1909.11472 2019.Materials 2020, xx, 5 28 of 29**[paper](https://arxiv.org/pdf/1909.11472)<br>
         van Deursen, R.; Godin, G.
-303. ** Fast approximate geodesics for deep generative models. International Conference on Artificial Neural Networks. Springer, 2019, pp. 554–566.**
-         Chen, N.; Ferroni, F.; Klushyn, A.; Paraschos, A.; Bayer, J.; van der Smagt, P.[paper](https://arxiv.org/pdf/1812.08284)<br>
+303. **Fast approximate geodesics for deep generative models. International Conference on Artificial Neural Networks. Springer, 2019, pp. 554–566.**[paper](https://arxiv.org/pdf/1812.08284)<br>
+         Chen, N.; Ferroni, F.; Klushyn, A.; Paraschos, A.; Bayer, J.; van der Smagt, P.
 304. **Learning functional causal models with generative neural networks. In Explainable and Interpretable Models in Computer Vision and Machine Learning; Springer, 2018; pp. 39–80.**[paper](https://arxiv.org/pdf/1709.05321)<br>
          Goudet, O.; Kalainathan, D.; Caillou, P.; Guyon, I.; Lopez-Paz, D.; Sebag, M.
 305. **Gan lab: Understanding complex deep generative models using interactive visual experimentation. IEEE transactions on visualization and computer graphics 2018, 25, 1–11.**[paper](https://ieeexplore.ieee.org/iel7/2945/8547224/08440049.pdf)<br>
@@ -891,9 +891,9 @@ arXiv preprint arXiv:1901.09674 2019.
         Douglas, L.; Zarov, I.; Gourgoulias, K.; Lucas, C.; Hart, C.; Baker, A.; Sahani, M.; Perov, Y.; Johri, S.
 314. **Causalgan: Learning causal implicit generative models with adversarial training. arXiv preprint arXiv:1709.02023 2017.**[paper](https://arxiv.org/pdf/1709.02023)<br>
         Kocaoglu, M.; Snyder, C.; Dimakis, A.G.; Vishwanath, S.
-315.**Can GAN learn topological features of a graph? arXiv preprint arXiv:1707.06197 2017.**[paper](https://arxiv.org/pdf/1707.06197)<br>
+315. **Can GAN learn topological features of a graph.  arXiv:1707.06197 2017.** [paper](https://arxiv.org/pdf/1707.06197)<br>
         Liu, W.; Chen, P.Y.; Cooper, H.; Oh, M.H.; Yeung, S.; Suzumura, T.
-316.**PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020, pp. 2437–2445.**[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Menon_PULSE_Self-Supervised_Photo_Upsampling_via_Latent_Space_Exploration_of_Generative_CVPR_2020_paper.pdf)<br>
+316. **PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020, pp. 2437–2445.**[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Menon_PULSE_Self-Supervised_Photo_Upsampling_via_Latent_Space_Exploration_of_Generative_CVPR_2020_paper.pdf)<br>
         Menon, S.; Damian, A.; Hu, S.; Ravi, N.; Rudin, C.
 317. **Contrastive Generative Adversarial Networks. arXiv preprint arXiv:2006.12681 2020.**[paper](https://arxiv.org/pdf/2006.12681)<br>
         Kang, M.; Park, J.
@@ -907,7 +907,7 @@ Korotin, A.; Egiazarian, V.; Asadulaev, A.; Burnaev, E.
         Xie, T.; France-Lanord, A.; Wang, Y.; Shao-Horn, Y.; Grossman, J.C.
 322. **Big-Data Science in Porous Materials: Materials Genomics and Machine Learning. Chemical Reviews 2020.**[paper](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.0c00004)<br>
         Jablonka, K.M.; Ongari, D.; Moosavi, S.M.; Smit, B..
-323. **Identification of molecules by de novo molecule generation from NMR spectra. Proceedings of the Symposium on Chemoinformatics 42th Materials 2020, xx, 5 28 of 28 Symposium on Chemoinformatics, Tokyo. 2019.**[paper](https://www.jstage.jst.go.jp/article/ciqs/2019/0/2019_1P09/_pdf)[code](https://github.com/john-bradshaw/electro)<br>
+323. **Identification of molecules by de novo molecule generation from NMR spectra. Proceedings of the Symposium on Chemoinformatics 42th Materials 2020** [paper](https://www.jstage.jst.go.jp/article/ciqs/2019/0/2019_1P09/_pdf)[code](https://github.com/john-bradshaw/electro)<br>
         Zhang, J.; Terayama, K.; Sumita, M.; Ito, K.; Kikuchi, J.; Tsuda, K.
 324.**On failure modes of molecule generators and optimizers 2020.**
 [paper](https://chemrxiv.org/articles/On_Failure_Modes_of_Molecule_Generators_and_Optimizers/12213542/files/22461629.pdf)<br>
