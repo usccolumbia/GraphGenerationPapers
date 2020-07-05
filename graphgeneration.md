@@ -697,119 +697,172 @@ fingerprints. Journal of computer-aided molecular design. 2016***  [pdf](https:/
 249. **Generative network complex for the automated generation of druglike molecules. arXiv preprint arXiv:2005.14286 2020.**
     [pdf](https://arxiv.org/pdf/2005.14286.pdf)<br>
         *Gao, K.; Nguyen, D.D.; Tu, M.; Wei, G.W.*
-250. Voršilák, M.; Koláˇr, M.; Cmelo, I.; Svozil, D. SYBA: Bayesian estimation of synthetic accessibility of organic ˇ
-compounds. Journal of Cheminformatics 2020, 12, 1–13.
-251. Grisoni, F.; Schneider, G. De novo Molecular Design with Generative Long Short-term Memory. CHIMIA
-International Journal for Chemistry 2019, 73, 1006–1011.
-252. Pölsterl, S.; Wachinger, C. Likelihood-Free Inference and Generation of Molecular Graphs. arXiv preprint
-arXiv:1905.10310 2019.
-253. Jin, W.; Barzilay, R.; Jaakkola, T. Hierarchical Generation of Molecular Graphs using Structural Motifs.
-arXiv preprint arXiv:2002.03230 2020.
-254. Liu, C.C.; Chan, H.; Luk, K.; Borealis, A. Auto-regressive Graph Generation Modeling with Improved
-Evaluation Methods.
-Materials 2020, xx, 5 26 of 29
-255. Chen, X.; Chen, S.; Zheng, H.; Yao, J.; Cui, K.; Zhang, Y.; Tsang, I.W. Node Attribute Generation on Graphs.
-arXiv preprint arXiv:1907.09708 2019.
-256. Łukasz, M.; Agnieszka, P.; Kaczmarczyk, J.; Krzysztof, R.; Tomasz, D.; Michał, W. Mol-CycleGAN: a
-generative model for molecular optimization. Journal of Cheminformatics 2020, 12.
-257. Zou, D.; Lerman, G. Graph Generation via Scattering 2018.
-258. Zhang, C.; Lyu, X.; Huang, Y.; Tang, Z.; Liu, Z. Molecular Graph Generation with Deep Reinforced Multitask
-Network and Adversarial Imitation Learning. 2019 IEEE International Conference on Bioinformatics and
-Biomedicine (BIBM). IEEE, 2019, pp. 326–329.
-259. Schwaller, P.; Petraglia, R.; Zullo, V.; Nair, V.H.; Haeuselmann, R.A.; Pisoni, R.; Bekas, C.; Iuliano, A.; Laino,
-T. Predicting retrosynthetic pathways using transformer-based models and a hyper-graph exploration
-strategy. Chemical Science 2020, 11, 3316–3325.
-260. Zang, C.; Wang, F. MoFlow: An Invertible Flow Model for Generating Molecular Graphs. arXiv preprint
-arXiv:2006.10137 2020.
-261. Mollaysa, A.; Paige, B.; Kalousis, A. Conditional generation of molecules from disentangled representations
-2019.
-262. Li, X.; Lyu, X.; Zhang, H.; Hu, K.; Tang, Z. Regularizing Variational Autoencoders for Molecular Graph
-Generation. International Conference on Neural Information Processing. Springer, 2019, pp. 467–476.
-263. Quadri, S.F.; Li, X.; Zheng, D.; Aftab, M.U.; Huang, Y. Multi-Layer Graph Generative Model Using
-AutoEncoder for Recommendation Systems. Journal on Big Data 2019, 1, 1.
-264. Liu, X.; Tang, S.; Wang, J. Generative Adversarial Graph Representation Learning in Hyperbolic Space.
-China Conference on Information Retrieval. Springer, 2018, pp. 119–131.
-265. Mansimov, E.; Mahmood, O.; Kang, S.; Cho, K. Molecular geometry prediction using a deep generative
-graph neural network. Scientific reports 2019, 9, 1–13.
-266. Shine, A.; Kempe, D. Generative Graph Models based on Laplacian Spectra? The World Wide Web
-Conference, 2019, pp. 1691–1701.
-267. Moreno, S.; Pfeiffer, J.J.; Neville, J. Scalable and exact sampling method for probabilistic generative graph
-models. Data Mining and Knowledge Discovery 2018, 32, 1561–1596.
-268. Lamb, L.; Garcez, A.; Gori, M.; Prates, M.; Avelar, P.; Vardi, M. Graph Neural Networks Meet
-Neural-Symbolic Computing: A Survey and Perspective. arXiv preprint arXiv:2003.00330 2020.
-269. Ma, T.; Chen, J.; Xiao, C. Constrained generation of semantically valid graphs via regularizing variational
-autoencoders. Advances in Neural Information Processing Systems, 2018, pp. 7113–7124.
-270. Das, P.; Sercu, T.; Wadhawan, K.; Padhi, I.; Gehrmann, S.; Cipcigan, F.; Chenthamarakshan, V.; Strobelt, H.;
-Santos, C.d.; Chen, P.Y.; others. Accelerating Antimicrobial Discovery with Controllable Deep Generative
-Models and Molecular Dynamics. arXiv preprint arXiv:2005.11248 2020.
-271. Liang, H.; Stanev, V.; Kusne, A.G.; Takeuchi, I. CRYSPNet: Crystal Structure Predictions via Neural
-Network. arXiv preprint arXiv:2003.14328 2020.
-272. Jensen, K.F.; Coley, C.W.; Eyke, N.S. Autonomous discovery in the chemical sciences part I: Progress.
-Angewandte Chemie International Edition 2019.
-273. Oh, S.; Jung, Y.; Kim, S.; Lee, I.; Kang, N. Deep generative design: Integration of topology optimization
-and generative models. Journal of Mechanical Design 2019, 141.
-274. Takeda, S.; Hama, T.; Hsu, H.H.; Piunova, V.A.; Zubarev, D.; Sanders, D.P.; Pitera, J.W.; Kogoh, M.;
-Hongo, T.; Cheng, Y.; others. Molecular Inverse-Design Platform for Material Industries. arXiv preprint
-arXiv:2004.11521 2020.
-275. Blaschke, T.; Olivecrona, M.; Engkvist, O.; Bajorath, J.; Chen, H. Application of generative autoencoder in
-de novo molecular design. Molecular informatics 2018, 37, 1700123.
-276. Yoshikawa, N.; Terayama, K.; Sumita, M.; Homma, T.; Oono, K.; Tsuda, K. Population-based de novo
-molecule generation, using grammatical evolution. Chemistry Letters 2018, 47, 1431–1434.
-277. Saxena, D.; Cao, J. Generative Adversarial Networks (GANs): Challenges, Solutions, and Future Directions.
-arXiv preprint arXiv:2005.00065 2020.
-278. Salehi, P.; Chalechale, A.; Taghizadeh, M. Generative Adversarial Networks (GANs): An Overview of
-Theoretical Model, Evaluation Metrics, and Recent Developments. arXiv preprint arXiv:2005.13178 2020.
-279. Dhamala, J.; Ghimire, S.; Sapp, J.L.; Horáˇcek, B.M.; Wang, L. Bayesian optimization on large graphs via
-a graph convolutional generative model: Application in cardiac model personalization. International
-Materials 2020, xx, 5 27 of 29
-Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, 2019, pp.
-458–467.
-280. Karimi, M.; Hasanzadeh, A.; others. Network-principled deep generative models for designing drug
-combinations as graph sets. arXiv preprint arXiv:2004.07782 2020.
-281. Gutierrez, J.; Schrum, J. Generative Adversarial Network Rooms in Generative Graph Grammar Dungeons
-for The Legend of Zelda. arXiv preprint arXiv:2001.05065 2020.
-282. Bacciu, D.; Errica, F.; Micheli, A. Contextual graph markov model: A deep and generative approach to
-graph processing. arXiv preprint arXiv:1805.10636 2018.
-283. Kawai, W.; Mukuta, Y.; Harada, T. Scalable Generative Models for Graphs with Graph Attention
-Mechanism. arXiv preprint arXiv:1906.01861 2019.
-284. Singh, V.; Lio, P. Towards probabilistic generative models harnessing graph neural networks for
-disease-gene prediction. arXiv preprint arXiv:1907.05628 2019.
-285. Shu, D.W.; Park, S.W.; Kwon, J. 3d point cloud generative adversarial network based on tree structured
-graph convolutions. Proceedings of the IEEE International Conference on Computer Vision, 2019, pp.
-3859–3868.
-286. Khodayar, M.; Wang, J.; Wang, Z. Deep Generative Graph Distribution Learning for Synthetic Power Grids.
+250. **SYBA: Bayesian estimation of synthetic accessibility of organic compounds. Journal of Cheminformatics 2020, 12, 1–13.**
+    [pdf](https://www.researchgate.net/publication/341524191_SYBA_Bayesian_estimation_of_synthetic_accessibility_of_organic_compounds)
+    [code](https://github.com/lich-uct/syba)<br>
+        *Voršilák, M.; Koláˇr, M.; Cmelo, I.; Svozil, D.*
+251. **De novo Molecular Design with Generative Long Short-term Memory. CHIMIA International Journal for Chemistry 2019, 73, 1006–1011.**
+    [pdf](https://www.researchgate.net/publication/338222142_De_novo_Molecular_Design_with_Generative_Long_Short-term_Memory)<br>
+        *Grisoni, F.; Schneider, G.*
+252. **Likelihood-Free Inference and Generation of Molecular Graphs. arXiv preprint arXiv:1905.10310 2019.**
+    [pdf](https://arxiv.org/pdf/1905.10310.pdf)
+    [code](https://github.com/ai-med/almgig)<br>
+        *Pölsterl, S.; Wachinger, C.*
+253. **Hierarchical Generation of Molecular Graphs using Structural Motifs. arXiv preprint arXiv:2002.03230 2020.**
+    [pdf](https://arxiv.org/pdf/2002.03230.pdf)<br>
+        *Jin, W.; Barzilay, R.; Jaakkola, T.*
+254. **Auto-regressive Graph Generation Modeling with Improved Evaluation Methods. Materials 2020, xx, 5 26 of 29**
+    [pdf](https://grlearning.github.io/papers/77.pdf)<br>
+        *Liu, C.C.; Chan, H.; Luk, K.; Borealis, A.*
+255. **Node Attribute Generation on Graphs. arXiv preprint arXiv:1907.09708 2019.**
+    [pdf](https://arxiv.org/pdf/1907.09708.pdf)<br>
+        *Chen, X.; Chen, S.; Zheng, H.; Yao, J.; Cui, K.; Zhang, Y.; Tsang, I.W.*
+256. **Mol-CycleGAN: a generative model for molecular optimization. Journal of Cheminformatics 2020, 12.**
+    [pdf](https://arxiv.org/pdf/1902.02119.pdf)<br>
+    [code](https://github.com/ardigen/mol-cycle-gan)<br>
+        *Łukasz, M.; Agnieszka, P.; Kaczmarczyk, J.; Krzysztof, R.; Tomasz, D.; Michał, W.*
+257. **Graph Generation via Scattering 2018.**
+    [pdf](https://openreview.net/pdf?id=HyxSBh09t7)<br>
+        *Zou, D.; Lerman, G.*
+258. **Molecular Graph Generation with Deep Reinforced Multitask Network and Adversarial Imitation Learning. 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2019, pp. 326–329.**
+    [pdf](https://www.researchgate.net/publication/336251768_Molecular_Graph_Generation_with_Deep_Reinforced_Multitask_Network_and_Adversarial_Imitation_Learning)<br>
+        *Zhang, C.; Lyu, X.; Huang, Y.; Tang, Z.; Liu, Z.*
+259. *Predicting retrosynthetic pathways using transformer-based models and a hyper-graph exploration strategy. Chemical Science 2020, 11, 3316–3325.*
+    [pdf](https://arxiv.org/pdf/1910.08036.pdf)<br>
+        *Schwaller, P.; Petraglia, R.; Zullo, V.; Nair, V.H.; Haeuselmann, R.A.; Pisoni, R.; Bekas, C.; Iuliano, A.; Laino, T.*
+260. **MoFlow: An Invertible Flow Model for Generating Molecular Graphs. arXiv preprint arXiv:2006.10137 2020.**
+    [pdf](https://arxiv.org/pdf/2006.10137.pdf)
+    [code](https://github.com/calvin-zcx/moflow)<br>
+        *Zang, C.; Wang, F.*
+261. **Conditional generation of molecules from disentangled representations 2019.**
+    [pdf](https://openreview.net/pdf?id=BkxthxHYvr)
+        *Mollaysa, A.; Paige, B.; Kalousis, A.*
+262. **Regularizing Variational Autoencoders for Molecular Graph Generation. International Conference on Neural Information Processing. Springer, 2019, pp. 467–476.**
+    [pdf](https://link.springer.com/chapter/10.1007/978-3-030-36802-9_50)<br>
+        *Li, X.; Lyu, X.; Zhang, H.; Hu, K.; Tang, Z.*
+263. **Multi-Layer Graph Generative Model Using AutoEncoder for Recommendation Systems. Journal on Big Data 2019, 1, 1.**
+    [pdf](https://media.proquest.com/media/hms/PFT/1/7vLLG?_s=GkfGKkqoDrJczmGfy%2FaGmFnkfjY%3D)<br>
+        *Quadri, S.F.; Li, X.; Zheng, D.; Aftab, M.U.; Huang, Y.*
+264. **Generative Adversarial Graph Representation Learning in Hyperbolic Space. China Conference on Information Retrieval. Springer, 2018, pp. 119–131.**
+    [pdf](https://link.springer.com/chapter/10.1007/978-3-030-01012-6_10)<br>
+        *Liu, X.; Tang, S.; Wang, J.*
+265. **Molecular geometry prediction using a deep generative graph neural network. Scientific reports 2019, 9, 1–13.**
+    [pdf](https://arxiv.org/pdf/1904.00314.pdf)
+    [code](https://github.com/nyu-dl/dl4chem-geometry)<br>
+        *Mansimov, E.; Mahmood, O.; Kang, S.; Cho, K.*
+266. **Generative Graph Models based on Laplacian Spectra? The World Wide Web Conference, 2019, pp. 1691–1701.**
+    [pdf](https://dl.acm.org/doi/pdf/10.1145/3308558.3313631?download=true)<br>
+        *Shine, A.; Kempe, D.*
+267. **Scalable and exact sampling method for probabilistic generative graph models. Data Mining and Knowledge Discovery 2018, 32, 1561–1596.**
+    [pdf](https://link.springer.com/article/10.1007/s10618-018-0566-x)<br>
+        *Moreno, S.; Pfeiffer, J.J.; Neville, J.*
+268. **Graph Neural Networks Meet   Neural-Symbolic Computing: A Survey and Perspective. arXiv preprint arXiv:2003.00330 2020.**
+    [pdf](https://arxiv.org/pdf/2003.00330.pdf)<br>
+        *Lamb, L.; Garcez, A.; Gori, M.; Prates, M.; Avelar, P.; Vardi, M.*
+269. **Constrained generation of semantically valid graphs via regularizing variational autoencoders. Advances in Neural Information Processing Systems, 2018, pp. 7113–7124.**
+    [pdf](https://arxiv.org/pdf/1809.02630.pdf)<br>
+        *Ma, T.; Chen, J.; Xiao, C.*
+270. **Accelerating Antimicrobial Discovery with Controllable Deep Generative Models and Molecular Dynamics. arXiv preprint arXiv:2005.11248 2020.**
+    [pdf](https://arxiv.org/pdf/2005.11248.pdf)<br>
+        *Das, P.; Sercu, T.; Wadhawan, K.; Padhi, I.; Gehrmann, S.; Cipcigan, F.; Chenthamarakshan, V.; Strobelt, H.; Santos, C.d.; Chen, P.Y.; others.*
+271. **CRYSPNet: Crystal Structure Predictions via Neural Network. arXiv preprint arXiv:2003.14328 2020.**
+    [pdf](https://arxiv.org/pdf/2003.14328.pdf)<br>
+        *Liang, H.; Stanev, V.; Kusne, A.G.; Takeuchi, I.*
+272. **Autonomous discovery in the chemical sciences part I: Progress. Angewandte Chemie International Edition 2019.**
+    [pdf](https://arxiv.org/pdf/2003.13754.pdf)<br>
+        *Jensen, K.F.; Coley, C.W.; Eyke, N.S.* 
+273. **Deep generative design: Integration of topology optimization and generative models. Journal of Mechanical Design 2019, 141.**
+    [pdf](https://arxiv.org/pdf/1903.01548.pdf)<br>
+        *Oh, S.; Jung, Y.; Kim, S.; Lee, I.; Kang, N.*
+274. **Molecular Inverse-Design Platform for Material Industries. arXiv preprint arXiv:2004.11521 2020.**
+    [pdf](https://arxiv.org/pdf/2004.11521.pdf)<br>
+        *Takeda, S.; Hama, T.; Hsu, H.H.; Piunova, V.A.; Zubarev, D.; Sanders, D.P.; Pitera, J.W.; Kogoh, M.; Hongo, T.; Cheng, Y.; others.*
+275. **Application of generative autoencoder in de novo molecular design. Molecular informatics 2018, 37, 1700123.**
+    [pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1002/minf.201700123)<br>
+        *Blaschke, T.; Olivecrona, M.; Engkvist, O.; Bajorath, J.; Chen, H.*
+276. **Population-based de novo molecule generation, using grammatical evolution. Chemistry Letters 2018, 47, 1431–1434.**
+    [pdf](https://arxiv.org/pdf/1804.02134.pdf)
+    [code](https://github.com/tsudalab/ChemGE)<br>
+        *Yoshikawa, N.; Terayama, K.; Sumita, M.; Homma, T.; Oono, K.; Tsuda, K.*
+277. **Generative Adversarial Networks (GANs): Challenges, Solutions, and Future Directions. arXiv preprint arXiv:2005.00065 2020.**
+    [pdf](https://arxiv.org/pdf/2005.00065.pdf)<br>
+        *Saxena, D.; Cao, J.*
+278. **Generative Adversarial Networks (GANs): An Overview of Theoretical Model, Evaluation Metrics, and Recent Developments. arXiv preprint arXiv:2005.13178 2020.**
+    [pdf](https://arxiv.org/pdf/2005.13178.pdf)<br>
+        *Salehi, P.; Chalechale, A.; Taghizadeh, M.*
+279. **Bayesian optimization on large graphs via a graph convolutional generative model: Application in cardiac model personalization. International Materials 2020, xx, 5 27 of 29 Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, 2019, pp. 458–467.**
+    [pdf](http://arxiv.org/pdf/1907.01406.pdf)<br>
+        *Dhamala, J.; Ghimire, S.; Sapp, J.L.; Horáˇcek, B.M.; Wang, L.*
+280.**Network-principled deep generative models for designing drug combinations as graph sets. arXiv preprint arXiv:2004.07782 2020.**
+    [pdf](https://arxiv.org/pdf/2004.07782.pdf)
+    [code](https://github.com/Shen-Lab/Drug-Combo-Generator)<br>
+        *Karimi, M.; Hasanzadeh, A.; others.*
+281. **Generative Adversarial Network Rooms in Generative Graph Grammar Dungeons for The Legend of Zelda. arXiv preprint arXiv:2001.05065 2020.**
+    [pdf](https://arxiv.org/pdf/2001.05065.pdf)<br>
+        *Gutierrez, J.; Schrum, J.*
+282. **Contextual graph markov model: A deep and generative approach to graph processing. arXiv preprint arXiv:1805.10636 2018.**
+    [pdf](https://arxiv.org/pdf/1805.10636.pdf)
+    [code](https://github.com/diningphil/CGMM)<br>
+        *Bacciu, D.; Errica, F.; Micheli, A.*
+283. **Scalable Generative Models for Graphs with Graph Attention Mechanism. arXiv preprint arXiv:1906.01861 2019.**
+    [pdf](https://arxiv.org/pdf/1906.01861.pdf)<br>
+        *Kawai, W.; Mukuta, Y.; Harada, T.*
+284. **Towards probabilistic generative models harnessing graph neural networks for disease-gene prediction. arXiv preprint arXiv:1907.05628 2019.**
+    [pdf](https://arxiv.org/pdf/1907.05628.pdf)<br>
+        *Singh, V.; Lio, P.*
+285. **3d point cloud generative adversarial network based on tree structured graph convolutions. Proceedings of the IEEE International Conference on Computer Vision, 2019, pp. 3859–3868.**
+    [pdf](https://arxiv.org/pdf/1905.06292.pdf)<br>
+        *Shu, D.W.; Park, S.W.; Kwon, J.*
+286. Deep Generative Graph Distribution Learning for Synthetic Power Grids.
 arXiv preprint arXiv:1901.09674 2019.
-287. Broad, T.; Leymarie, F.F.; Grierson, M. Network Bending: Manipulating The Inner Representations of Deep
-Generative Models. arXiv preprint arXiv:2005.12420 2020.
-288. Geng, Y.; Chen, J.; Chen, Z.; Ye, Z.; Yuan, Z.; Jia, Y.; Chen, H. Generative Adversarial Zero-shot Learning
-via Knowledge Graphs. arXiv preprint arXiv:2004.03109 2020.
-289. Khan, R.A.; Kleinsteuber, M. Epitomic Variational Graph Autoencoder. arXiv preprint arXiv:2004.01468
-2020.
-290. Hasanzadeh, A.; Hajiramezanali, E.; Narayanan, K.; Duffield, N.; Zhou, M.; Qian, X. Semi-implicit graph
-variational auto-encoders. Advances in neural information processing systems, 2019, pp. 10712–10723.
-291. Liang, M.; Meng, Y.; Wang, J.; Lubkeman, D.; Lu, N. FeederGAN: Synthetic Feeder Generation via Deep
-Graph Adversarial Nets. arXiv preprint arXiv:2004.01407 2020.
-292. Besserve, M.; Sun, R.; Janzing, D.; Schölkopf, B. A theory of independent mechanisms for extrapolation in
-generative models. arXiv preprint arXiv:2004.00184 2020.
-293. Nauata, N.; Chang, K.H.; Cheng, C.Y.; Mori, G.; Furukawa, Y. House-GAN: Relational Generative
-Adversarial Networks for Graph-constrained House Layout Generation. arXiv preprint arXiv:2003.06988
-2020.
-294. Jing, B.; Chi, E.A.; Tang, J. SGVAE: Sequential Graph Variational Autoencoder. arXiv preprint
-arXiv:1912.07800 2019.
-295. Wang, W.; Xu, H.; Gan, Z.; Li, B.; Wang, G.; Chen, L.; Yang, Q.; Wang, W.; Carin, L. Graph-driven
-generative models for heterogeneous multi-task learning. Proceedings of the AAAI Conference on
-Artificial Intelligence, 2020, Vol. 34, pp. 979–988.
-296. Gamage, A.; Chien, E.; Peng, J.; Milenkovic, O. Multi-MotifGAN (MMGAN): Motif-Targeted Graph
-Generation And Prediction. ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and
-Signal Processing (ICASSP). IEEE, 2020, pp. 4182–4186.
-297. Stoehr, N.; Brockschmidt, M.; Stuehmer, J.; Yilmaz, E. Disentangling interpretable generative parameters of
-random and real-world graphs. arXiv preprint arXiv:1910.05639 2019.
-298. Duan, T.; Lee, J. Graph Embedding VAE: A Permutation Invariant Model of Graph Structure. arXiv preprint
-arXiv:1910.08057 2019.
-299. Liu, W.; Chen, P.Y.; Yu, F.; Suzumura, T.; Hu, G. Learning graph topological features via GAN. IEEE Access
-2019, 7, 21834–21843.
-300. Sato, R.; Yamada, M.; Kashima, H. Learning to Sample Hard Instances for Graph Algorithms. arXiv
-preprint arXiv:1902.09700 2019.
+    [pdf](https://arxiv.org/pdf/1901.09674.pdf)<br>
+        *Khodayar, M.; Wang, J.; Wang, Z.*
+287. **Network Bending: Manipulating The Inner Representations of Deep Generative Models. arXiv preprint arXiv:2005.12420 2020.**
+    [pdf](https://arxiv.org/pdf/2005.12420.pdf)<br>
+        *Broad, T.; Leymarie, F.F.; Grierson, M.*
+288. **Generative Adversarial Zero-shot Learning via Knowledge Graphs. arXiv preprint arXiv:2004.03109 2020.**
+    [pdf](https://arxiv.org/pdf/2004.03109.pdf)<br>
+        *Geng, Y.; Chen, J.; Chen, Z.; Ye, Z.; Yuan, Z.; Jia, Y.; Chen, H.*
+289. **Epitomic Variational Graph Autoencoder. arXiv preprint arXiv:2004.01468 2020.**
+    [pdf](https://arxiv.org/pdf/2004.01468.pdf)
+    [code](https://github.com/RayyanRiaz/EVGAE)<br>
+        *Khan, R.A.; Kleinsteuber, M.*
+290. **Semi-implicit graph variational auto-encoders. Advances in neural information processing systems, 2019, pp. 10712–10723.**
+    [pdf](https://arxiv.org/pdf/1908.07078.pdf)
+    [code](https://github.com/sigvae/SIGraphVAE)<br>
+        *Hasanzadeh, A.; Hajiramezanali, E.; Narayanan, K.; Duffield, N.; Zhou, M.; Qian, X.*
+291. **FeederGAN: Synthetic Feeder Generation via Deep Graph Adversarial Nets. arXiv preprint arXiv:2004.01407 2020.**
+    [pdf](https://arxiv.org/pdf/2004.01407.pdf)<br>
+        *Liang, M.; Meng, Y.; Wang, J.; Lubkeman, D.; Lu, N.*
+292. **A theory of independent mechanisms for extrapolation in generative models. arXiv preprint arXiv:2004.00184 2020.**
+    [pdf](https://arxiv.org/pdf/2004.00184.pdf)<br>
+        *Besserve, M.; Sun, R.; Janzing, D.; Schölkopf, B.*
+293. **House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation. arXiv preprint arXiv:2003.06988 2020.**
+    [pdf](https://arxiv.org/pdf/2003.06988.pdf)<br>
+        *Nauata, N.; Chang, K.H.; Cheng, C.Y.; Mori, G.; Furukawa, Y.*
+294. **SGVAE: Sequential Graph Variational Autoencoder. arXiv preprint arXiv:1912.07800 2019.**
+    [pdf](https://arxiv.org/pdf/1912.07800.pdf)
+    [code](https://github.com/bjing2016/sgvae)<br>
+        *Jing, B.; Chi, E.A.; Tang, J.*
+295. **Graph-driven generative models for heterogeneous multi-task learning. Proceedings of the AAAI Conference on Artificial Intelligence, 2020, Vol. 34, pp. 979–988.**
+    [pdf](https://arxiv.org/pdf/1911.08709.pdf)<br>
+        *Wang, W.; Xu, H.; Gan, Z.; Li, B.; Wang, G.; Chen, L.; Yang, Q.; Wang, W.; Carin, L.* 
+296. **Multi-MotifGAN (MMGAN): Motif-Targeted Graph Generation And Prediction. ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020, pp. 4182–4186.**
+    [pdf](https://arxiv.org/pdf/1911.05469.pdf)<br>
+        *Gamage, A.; Chien, E.; Peng, J.; Milenkovic, O.*
+297. **Disentangling interpretable generative parameters of random and real-world graphs. arXiv preprint arXiv:1910.05639 2019.**
+    [pdf](https://arxiv.org/pdf/1910.05639.pdf)<br>
+        *Stoehr, N.; Brockschmidt, M.; Stuehmer, J.; Yilmaz, E.*
+298. **Graph Embedding VAE: A Permutation Invariant Model of Graph Structure. arXiv preprint arXiv:1910.08057 2019.**
+    [pdf](https://arxiv.org/pdf/1910.08057.pdf)<br>
+        *Duan, T.; Lee, J.*
+299. **Learning graph topological features via GAN. IEEE Access 2019, 7, 21834–21843.**
+    [pdf](https://arxiv.org/pdf/1709.03545.pdf)<br>
+        *Liu, W.; Chen, P.Y.; Yu, F.; Suzumura, T.; Hu, G.*
+300. **Learning to Sample Hard Instances for Graph Algorithms. arXiv preprint arXiv:1902.09700 2019.**
+    [pdf](https://arxiv.org/pdf/1902.09700.pdf)
+    [code](https://github.com/joisino/HiSampler)<br>
+        *Sato, R.; Yamada, M.; Kashima, H.*
 301.** Graph residual flo[paper](https://arxiv.org/pdf/1909.13521)<br>
          Honda, S.; Akita, H.; Ishiguro, K.; Nakanishi, T.; Oono, K.
 302. **Deep Generative Model for Sparse Graphs using Text-Based Learning with Augmentation in Generative Examination Networks. arXiv preprint arXiv:1909.11472 2019.Materials 2020, xx, 5 28 of 29**[paper](https://arxiv.org/pdf/1909.11472)<br>
