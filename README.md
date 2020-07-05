@@ -37,7 +37,7 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 </tr>
 <tr>
     <td>&emsp;<a href="#biology">Biology</a></td>
-    <td>&emsp;<a href="#Pharmacy">Pharmacy: drug design</a></td>
+    <td>&emsp;<a href="#Drug-Design">Drug design</a></td>
 </tr>
 <tr>
     <td>&emsp;<a href="#Media-Generation">Image/Video/Sound/Speech Synthesis </a></td>
@@ -369,13 +369,92 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
 
 ### [Inorganic-Materials](#content)
-1. **A Comparison between Recursive Neural Networks and Graph Neural Networks.** IJCNN 2006. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1716174)
 
-    *Vincenzo Di Massa, Gabriele Monfardini, Lorenzo Sarti, Franco Scarselli, Marco Maggini, Marco Gori.*
+1. **Multi-objective de novo drug design with conditional graph generative model. Journal of cheminformatics. 2018**
+[pdf](https://link.springer.com/content/pdf/10.1186/s13321-018-0287-6.pdf)[code](https://github.com/kevinid/molecule_generator)<br>
+        *Li, Y.; Zhang, L.; Liu, Z.*
+2. **Designing natural product-like virtual libraries using deep molecule generative models. macromolecules. 2018** [pdf](https://www.researchgate.net/publication/326668536_Designing_natural_product-like_virtual_libraries_using_deep_molecule_generative_models)<br>
+    *Li, Y.; Zhou, X.; Liu, Z.; Zhang, L.*
+3. **Automatic chemical design using a data-driven continuous representation of molecules. ACS central science. 2018** [pdf](https://doi.org/10.1021/acscentsci.7b00572)<br>
+    *Gómez-Bombarelli, R.; Wei, J.N.; Duvenaud, D.; Hernández-Lobato, J.M.; Sánchez-Lengeling, B.; Sheberla,D.; Aguilera-Iparraguirre, J.; Hirzel, T.D.; Adams, R.P.; Aspuru-Guzik, A.*
+4. **Improving chemical autoencoder latent space and molecular de novo generation diversity with heteroencoders. Biomolecules. 2018** [pdf](https://arxiv.org/abs/1806.09300)<br>
+    *Bjerrum, E.J.; Sattarov, B.*
+5. **Generating focused molecule libraries for drug discovery with recurrent neural networks. ACS central science. 2018** [pdf](https://doi.org/10.1021/acscentsci.7b00512)<br>
+    *Segler, M.H.; Kogej, T.; Tyrchan, C.; Waller, M.P.*
+6. **Exploring Deep Recurrent Models With Reinforcement Learning for Molecule Design. ICLR Conference. 2018**
+[pdf](https://openreview.net/pdf?id=HkcTe-bR-)<br>
+    *Neil, Daniel and Segler, Marwin and Guasch, Laura and Ahmed, Mohamed and Plumbley, Dean and Sellwood, Matthew and Brown, Nathan*
+7. **De novo molecule design by translating from reduced graphs to SMILES. Journal of chemical information and modeling. 2018**
+ [pdf](https://pubs.acs.org/doi/pdfplus/10.1021/acs.jcim.8b00626?casa_token=2WeU6DX6WVcAAAAA:YqdC52Zy0YUNlsffg0OG1zsjYrG2Zn3t7a_JZZJXXO3QDSjNmeVqKl9F6RPISAnqI_L35XBYqelAq1w)<br>
+    *Pogány, Peter and Arad, Navot and Genway, Sam and Pickett, Stephen D*
+8. **Constrained graph variational autoencoders for molecule design. Advances in neural information processing systems. 2018**
+  [pdf](https://papers.nips.cc/paper/8005-constrained-graph-variational-autoencoders-for-molecule-design.pdf)   [code](https://github.com/microsoft/constrained-graph-variational-autoencoder)<br>
+   *Qi Liu, Miltiadis Allamanis, Marc Brockschmidt, Alexander L. Gaunt*
+9. **Population-based de novo molecule generation, using grammatical evolution. Chemistry Letters. 2018**
+    [pdf](https://arxiv.org/pdf/1804.02134.pdf)
+    [code](https://github.com/tsudalab/ChemGE)<br>
+        *Yoshikawa, N.; Terayama, K.; Sumita, M.; Homma, T.; Oono, K.; Tsuda, K.*
+10. **Multi-resolution autoregressive graph-to-graph translation for molecules. arXiv preprint arXiv:1907.11223. 2019** [pdf](https://chemrxiv.org/articles/Multi-Resolution_Autoregressive_Graph-to-Graph_Translation_for_Molecules/8266745/1)<br>
+    *Jin, W.; Barzilay, R.; Jaakkola, T.*
+11. **Optimization of molecules via deep reinforcement learning. Scientific reports. 2019** [pdf](https://www.nature.com/articles/s41598-019-47148-x) [code](https://github.com/google-research/google-research/tree/master/mol_dqn)<br>
+    *Zhou, Z.; Kearnes, S.; Li, L.; Zare, R.N.; Riley, P.* 
+12. **Exploring the chemical space without bias: data-free molecule generation with DQN and SELFIES. Second Workshop on Machine Learning and the Physical Sciences (NeurIPS 2019). 2019** [pdf](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_153.pdf)<br>
+         *Gaudin, T.; Nigam, A.; Aspuru-Guzik, A.*
+13. **A model to search for synthesizable molecules. Advances in Neural Information Processing Systems. 2019**[pdf](http://papers.nips.cc/paper/9007-a-model-to-search-for-synthesizable-molecules.pdf)<br>
+        *Bradshaw, J.; Paige, B.; Kusner, M.J.; Segler, M.; Hernández-Lobato, J.M.*
+14. **Advances and challenges in deep generative models for de novo molecule generation. Wiley Interdisciplinary Reviews: Computational Molecular Science. 2019** [pdf](https://doi.org/10.1002/wcms.1395)<br>
+    *Xue, D.; Gong, Y.; Yang, Z.; Chuai, G.; Qu, S.; Shen, A.; Yu, J.; Liu, Q.*
+15. **A two-step graph convolutional decoder for molecule generation. arXiv preprint arXiv:1906.03412. 2019** [pdf](https://arxiv.org/abs/1906.03412)<br>
+    *Bresson, X.; Laurent, T.*
+16. **Reinforced molecule generation with heterogeneous states. 2019 IEEE International Conference on Data Mining (ICDM). IEEE. 2019**[pdf](https://ieeexplore.ieee.org/abstract/document/8970930)<br>
+        *Shi, F.; You, S.; Xu, C.*
+17. **Deep convolutional generative adversarial network (dcGAN) models for screening and design of small molecules targeting cannabinoid receptors. Molecular pharmaceutics. 2019** [pdf](https://pubs.acs.org/doi/abs/10.1021/acs.molpharmaceut.9b00500)<br>
+    *Bian, Y.; Wang, J.; Jun, J.J.; Xie, X.Q.*
+18. **Symmetry-adapted generation of 3d point sets for the targeted discovery of molecules. Advances in Neural Information Processing Systems. 2019**
+ [pdf](https://papers.nips.cc/paper/8974-symmetry-adapted-generation-of-3d-point-sets-for-the-targeted-discovery-of-molecules.pdf)<br>
+    *Gebauer, Niklas and Gastegger, Michael and Schütt, Kristof*
+19. **Hierarchical Graph-to-Graph Translation for Molecules. ICLR 2020 Conference Blind Submission. 2019**
+ [pdf](https://openreview.net/pdf?id=rJeeKTNKDB)  [code](https://github.com/wengong-jin/hgraph2graph)<br>
+    *Wengong Jin, Regina Barzilay, Tommi Jaakkola*
+20. **Conditional generation of molecules from disentangled representations. Under review as a conference paper at ICLR 2020. 2019**
+    [pdf](https://openreview.net/pdf?id=BkxthxHYvr)<br>
+        *Mollaysa, A.; Paige, B.; Kalousis, A.*
+21. **DeepGraphMol, a multi-objective, computational strategy for generating molecules with desirable properties: a graph convolution and reinforcement learning approach. BioRxiv. 2020** [pdf](https://www.biorxiv.org/content/biorxiv/early/2020/06/10/2020.05.25.114165.full.pdf)<br>
+	*Khemchandani, Y.; O’hagan, S.; Samanta, S.; Swainston, N.; Roberts, T.J.; Bollegala, D.; Kell, D.B.*
+22. **The synthesizability of molecules proposed by generative models. Journal of Chemical Information and Modeling. 2020**[pdf](https://arxiv.org/pdf/2002.07007.pdf)<br>
+        *Gao, W.; Coley, C.W.*
+23. **Machine-Learning-Assisted De Novo Design of Organic Molecules and Polymers: Opportunities and Challenges. Polymers. 2020**. [pdf](https://www.mdpi.com/2073-4360/12/1/163)<br>
+    *Chen, G.; Shen, Z.; Iyer, A.; Ghumman, U.F.; Tang, S.; Bi, J.; Chen, W.; Li, Y.*
+24. **A deep generative model for fragment-based molecule generation. arXiv preprint arXiv:2002.12826. 2020**. [pdf](https://arxiv.org/abs/2002.12826)<br>
+    *Podda, M.; Bacciu, D.; Micheli, A.*
+25. **Chembo: Bayesian optimization of small organic molecules with synthesizable recommendations. International Conference on Artificial Intelligence and Statistics. 2020**
+ [pdf](http://proceedings.mlr.press/v108/korovina20a/korovina20a.pdf)  [code](https://github.com/ks-korovina/chembo)<br>
+    *Korovina, Ksenia and Xu, Sailun and Kandasamy, Kirthevasan and Neiswanger, Willie and Poczos, Barnabas and Schneider, Jeff and Xing, Eric*
+26. **Towards Molecule Generation with Heterogeneous States via Reinforcement Learning. Master Thesis University of Sydney. 2020**
+ [pdf](https://ses.library.usyd.edu.au/bitstream/handle/2123/22335/Shi_Thesis.pdf?sequence=4&isAllowed=y)<br>
+    *Fangzhou Shi*
+27. **Bidirectional molecule generation with recurrent neural networks. Journal of chemical information and modeling. 2020**
+  [pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b00943)[code](https://github.com/ETHmodlab/BIMODAL) <br> 
+        *Francesca Grisoni, Michael Moret, Robin Lingwood, and Gisbert Schneider*
+28. **Generative network complex for the automated generation of druglike molecules. arXiv preprint arXiv:2005.14286. 2020**
+  [pdf](https://arxiv.org/pdf/2005.14286) <br> 
+        *Kaifu Gao, Duc D Nguyen, Meihua Tu, Guo-Wei Wei*
+29. **Bidirectional molecule generation with recurrent neural networks. Journal of chemical information and modeling. 2020**
+    [pdf](https://www.researchgate.net/publication/338413002_Bidirectional_Molecule_Generation_with_Recurrent_Neural_Networks)<br>
+        *Grisoni, F.; Moret, M.; Lingwood, R.; Schneider, G.*
+30. **Generative network complex for the automated generation of druglike molecules. arXiv preprint arXiv:2005.14286. 2020**
+    [pdf](https://arxiv.org/pdf/2005.14286.pdf)<br>
+        *Gao, K.; Nguyen, D.D.; Tu, M.; Wei, G.W.*
+31. **Identification of molecules by de novo molecule generation from NMR spectra. Proceedings of the Symposium on Chemoinformatics 42th Materials. 2020** [pdf](https://www.jstage.jst.go.jp/article/ciqs/2019/0/2019_1P09/_pdf)[code](https://github.com/john-bradshaw/electro)<br>
+        *Zhang, J.; Terayama, K.; Sumita, M.; Ito, K.; Kikuchi, J.; Tsuda, K.*
+32. **On failure modes of molecule generators and optimizers. ChemRxiv. 2020**
+[pdf](https://chemrxiv.org/articles/On_Failure_Modes_of_Molecule_Generators_and_Optimizers/12213542/files/22461629.pdf)<br>
+       *Renz, P.; Van Rompaey, D.; Wegner, J.K.; Hochreiter, S.; Klambauer, G.*
+       
     
 
 
-### [Pharmacy](#content)
+### [Drug Design](#content)
 1. **Stochastic Training of Graph Convolutional Networks with Variance Reduction.** ICML 2018. [paper](http://www.scipaper.net/uploadfile/2018/0716/20180716100330880.pdf)
    
     *Jianfei Chen, Jun Zhu, Le Song.*
