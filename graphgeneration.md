@@ -576,7 +576,7 @@ fingerprints. Journal of computer-aided molecular design. 2016***  [pdf](https:/
   [pdf](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-401.pdf) <br> 
         *Jingrui He, Jaime Carbonell, Yan Liu*
 210. **Generative code modeling with graphs. arXiv preprint arXiv:1805.08490. 2018**
-  [pdf](https://arxiv.org/pdf/1805.08490)<br>  
+  [pdf](https://arxiv.org/pdf/1805.08490)<br>
         *Marc Brockschmidt, Miltiadis Allamanis, Alexander L. Gaunt, Oleksandr Polozov*
 211. **Deep Learning for Source Code Modeling and Generation: Models, Applications and Challenges. ACM Computing Surveys (CSUR). 2020**
   [pdf](https://arxiv.org/pdf/2002.05442) <br> 
@@ -734,7 +734,7 @@ fingerprints. Journal of computer-aided molecular design. 2016***  [pdf](https:/
     [code](https://github.com/calvin-zcx/moflow)<br>
         *Zang, C.; Wang, F.*
 261. **Conditional generation of molecules from disentangled representations 2019.**
-    [pdf](https://openreview.net/pdf?id=BkxthxHYvr)
+    [pdf](https://openreview.net/pdf?id=BkxthxHYvr)<br>
         *Mollaysa, A.; Paige, B.; Kalousis, A.*
 262. **Regularizing Variational Autoencoders for Molecular Graph Generation. International Conference on Neural Information Processing. Springer, 2019, pp. 467–476.**
     [pdf](https://link.springer.com/chapter/10.1007/978-3-030-36802-9_50)<br>
@@ -884,9 +884,9 @@ arXiv preprint arXiv:1901.09674 2019.
         Bresson, X.; Laurent, T.
 311. **301.Generating triples with adversarial networks for scene graph construction.Thirty-Second AAAI Conference on Artificial Intelligence, 2018.**[pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/17059/16287)<br>
         Klawonn, M.; Heim, E.
-312. **Unsupervised generative adversarial cross-modal hashing. Thirty-Second AAAI Conference on Artificial Intelligence, 2018.**[pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16746/15730)<br>
+312. **Unsupervised generative adversarial cross-modal hashing. Thirty-Second AAAI Conference on Artificial Intelligence, 2018. **[pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16746/15730)<br>
         Zhang, J.; Peng, Y.; Yuan, M
-313.**A universal marginalizer for amortized inference in generative models. arXiv preprint arXiv:1711.00695 2017.**[pdf](https://arxiv.org/pdf/1711.00695)<br>
+313. **A universal marginalizer for amortized inference in generative models. arXiv preprint arXiv:1711.00695 2017.**[pdf](https://arxiv.org/pdf/1711.00695)<br>
         Douglas, L.; Zarov, I.; Gourgoulias, K.; Lucas, C.; Hart, C.; Baker, A.; Sahani, M.; Perov, Y.; Johri, S.
 314. **Causalgan: Learning causal implicit generative models with adversarial training. arXiv preprint arXiv:1709.02023 2017.**[pdf](https://arxiv.org/pdf/1709.02023)<br>
         Kocaoglu, M.; Snyder, C.; Dimakis, A.G.; Vishwanath, S.
@@ -908,12 +908,12 @@ Korotin, A.; Egiazarian, V.; Asadulaev, A.; Burnaev, E.
         Jablonka, K.M.; Ongari, D.; Moosavi, S.M.; Smit, B..
 323. **Identification of molecules by de novo molecule generation from NMR spectra. Proceedings of the Symposium on Chemoinformatics 42th Materials 2020** [pdf](https://www.jstage.jst.go.jp/article/ciqs/2019/0/2019_1P09/_pdf)[code](https://github.com/john-bradshaw/electro)<br>
         Zhang, J.; Terayama, K.; Sumita, M.; Ito, K.; Kikuchi, J.; Tsuda, K.
-324.**On failure modes of molecule generators and optimizers 2020.**
+324. **On failure modes of molecule generators and optimizers 2020.**
 [pdf](https://chemrxiv.org/articles/On_Failure_Modes_of_Molecule_Generators_and_Optimizers/12213542/files/22461629.pdf)<br>
         Renz, P.; Van Rompaey, D.; Wegner, J.K.; Hochreiter, S.; Klambauer, G.
 325. **Graph convolutional networks for computational drug development and discovery. Briefings in bioinformatics 2020**[pdf](https://academic.oup.com/bib/article-pdf/21/3/919/33227266/bbz042.pdf)<br>
         Sun, M.; Zhao, S.; Gilvary, C.; Elemento, O.; Zhou, J.; Wang, F.
-326.**An overview of neural networks for drug discovery and the inputs used. Expert opinion on drug discovery 2018**[pdf](https://www.tandfonline.com/doi/abs/10.1080/17460441.2018.1547278)<br>
+326. **An overview of neural networks for drug discovery and the inputs used. Expert opinion on drug discovery 2018**[pdf](https://www.tandfonline.com/doi/abs/10.1080/17460441.2018.1547278)<br>
         Xu, Y.; Yao, H.; Lin, K.
 327. **Reinforced molecule generation with heterogeneous states. 2019 IEEE International Conference on Data Mining (ICDM). IEEE, 2019**[pdf](https://ieeexplore.ieee.org/abstract/document/8970930)<br>
         Shi, F.; You, S.; Xu, C.
