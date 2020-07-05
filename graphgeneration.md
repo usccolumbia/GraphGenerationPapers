@@ -457,7 +457,7 @@ fingerprints. Journal of computer-aided molecular design. 2016***  [pdf](https:/
  [pdf](https://ses.library.usyd.edu.au/bitstream/handle/2123/22335/Shi_Thesis.pdf?sequence=4&isAllowed=y)<br>
     *Fangzhou Shi*
 
-173. **Direct steering of de novo molecular generation with descriptor conditional recurrent neural networks. Nature Machine Intelligence. 2020***
+173. **Direct steering of de novo molecular generation with descriptor conditional recurrent neural networks. Nature Machine Intelligence. 2020**
  [pdf](https://www.nature.com/articles/s42256-020-0174-5)<br>
     *Panagiotis-Christos Kotsias, Josep Arús-Pous, Hongming Chen, Ola Engkvist, Christian Tyrchan & Esben Jannik Bjerrum*
 
@@ -632,8 +632,7 @@ fingerprints. Journal of computer-aided molecular design. 2016***  [pdf](https:/
 228. **CausalVAE: Structured Causal Disentanglement in Variational Autoencoder. arXiv preprint arXiv:2004.08697. 2020**
   [pdf](https://arxiv.org/pdf/2004.08697) <br> 
         *Mengyue Yang, Furui Liu, Zhitang Chen, Xinwei Shen, Jianye Hao, Jun Wang*
-229. **Generative Neural Networks to infer Causal Mechanisms: algorithms and applications. PhD thesis, Université Paris-Saclay. 2019**
-  [pdf](https://tel.archives-ouvertes.fr/tel-02528204/document)<br>  
+229. **Generative Neural Networks to infer Causal Mechanisms: algorithms and applications. PhD thesis, Université Paris-Saclay. 2019** [pdf](https://tel.archives-ouvertes.fr/tel-02528204/document)<br>  
         *Diviyan Kalainathan*
 230. **Deep learning for molecular generation. Future medicinal chemistry. 2019**
   [pdf](https://www.researchgate.net/profile/Kangjie_Lin/publication/330740221_Deep_learning_for_molecular_generation/links/5cfdf3be4585157d159fecce/Deep-learning-for-molecular-generation.pdf)<br>  
