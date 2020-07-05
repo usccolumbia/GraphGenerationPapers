@@ -597,7 +597,6 @@ fingerprints. Journal of computer-aided molecular design. 2016***  [pdf](https:/
   [pdf](https://arxiv.org/pdf/1902.07159)<br>  
         *Revanth Reddy, Sarath Chandar, Balaraman Ravindran*
 217. **Neural turtle graphics for modeling city road layouts. Proceedings of the IEEE International Conference on Computer Vision. 2019**
-
   [pdf](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chu_Neural_Turtle_Graphics_for_Modeling_City_Road_Layouts_ICCV_2019_paper.pdf) [code](https://github.com/nv-tlabs/NTG)<br>
         *Hang Chu, Daiqing Li, David Acuna, Amlan Kar, Maria Shugrina, Xinkai Wei, Ming-Yu Liu, Antonio Torralba, Sanja Fidler*
 218. **Image-Conditioned Graph Generation for Road Network Extraction. arXiv preprint arXiv:1910.14388. 2019**
