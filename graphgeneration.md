@@ -303,367 +303,368 @@ autoencoder for de novo molecular design. Journal of Cheminformatics. 2018***
     *Bernardi, Raffaella and Cakici, Ruket and Elliott, Desmond and Erdem, Aykut and Erdem, Erkut and Ikizler-Cinbis, Nazli and Keller, Frank and Muscat, Adrian and Plank, Barbara*
 
 133. **Image generation from scene graphs. IEEE conference
-on computer vision and pattern recognition. 2018***  [pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Johnson_Image_Generation_From_CVPR_2018_paper.pdf)
+on computer vision and pattern recognition. 2018***  [pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Johnson_Image_Generation_From_CVPR_2018_paper.pdf)<br>
     *Johnson, Justin and Gupta, Agrim and Fei-Fei, Li*
 
-134. **Learning from collective intelligence: Feature learning using social images and tags. {ACM transactions on multimedia computing, communications, and applications (TOMM). 2016*** [pdf](https://dl.acm.org/doi/pdf/10.1145/2978656?casa_token=fh4_zAoB_KYAAAAA%3AWhuuMWE4QCi9nUy_Ew1FhAoReTuyoz5BgIIEVw7uHosCkDUGiGa7V9mBBCQ-fcohWH3tVPHhc-Rn)
+134. **Learning from collective intelligence: Feature learning using social images and tags. {ACM transactions on multimedia computing, communications, and applications (TOMM). 2016*** [pdf](https://dl.acm.org/doi/pdf/10.1145/2978656?casa_token=fh4_zAoB_KYAAAAA%3AWhuuMWE4QCi9nUy_Ew1FhAoReTuyoz5BgIIEVw7uHosCkDUGiGa7V9mBBCQ-fcohWH3tVPHhc-Rn)<br>
 		Zhang, Hanwang and Shang, Xindi and Luan, Huanbo and Wang, Meng and Chua, Tat-Seng
 
 135. **Interaction networks for learning about objects, relations and physics. Advances in neural information processing systems. 2016***
- [pdf](https://papers.nips.cc/paper/6418-interaction-networks-for-learning-about-objects-relations-and-physics.pdf)  [code](https://github.com/higgsfield/interaction_network_pytorch)
+ [pdf](https://papers.nips.cc/paper/6418-interaction-networks-for-learning-about-objects-relations-and-physics.pdf)  [code](https://github.com/higgsfield/interaction_network_pytorch)<br>
 		Battaglia, Peter and Pascanu, Razvan and Lai, Matthew and Rezende, Danilo Jimenez and others*
 
 136. **Convolutional networks on graphs for learning molecular fingerprints. Advances in Neural Information Processing Systems. 2015***
- [pdf](https://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf)  [code](https://github.com/HIPS/neural-fingerprint)
+ [pdf](https://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf)  [code](https://github.com/HIPS/neural-fingerprint)<br>
 		Duvenaud, David K and Maclaurin, Dougal and Iparraguirre, Jorge and Bombarell, Rafael and Hirzel, Timothy and Aspuru-Guzik, Alán and Adams, Ryan P*
 
 137. **Semi-supervised classification with graph convolutional networks. arXiv. 2016***
- [pdf](https://arxiv.org/pdf/1609.02907.pdf)  [code](https://github.com/tkipf/gcn)
+ [pdf](https://arxiv.org/pdf/1609.02907.pdf)  [code](https://github.com/tkipf/gcn)<br>
     *Kipf, Thomas N and Welling, Max*
 
 138. **Molecular graph convolutions: moving beyond
-fingerprints. Journal of computer-aided molecular design. 2016***  [pdf](https://link.springer.com/content/pdf/10.1007/s10822-016-9938-8.pdf)
+fingerprints. Journal of computer-aided molecular design. 2016***  [pdf](https://link.springer.com/content/pdf/10.1007/s10822-016-9938-8.pdf)<br>
     *Kearnes, Steven and McCloskey, Kevin and Berndl, Marc and Pande, Vijay and Riley, Patrick*
 
 139. **Spatial temporal graph convolutional networks for skeleton-based action recognition. Thirty-Second AAAI Conference on Artificial Intelligence. 2018***
- [pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/17135/16343)  [code](https://github.com/open-mmlab/mmskeleton)
+ [pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/17135/16343)  [code](https://github.com/open-mmlab/mmskeleton)<br>
     *Yan, Sijie and Xiong, Yuanjun and Lin, Dahua*
 
-140. **Graph convolutional neural networks for web-scale recommender systems. Knowledge Discovery & Data Mining. 2018*** [pdf](https://dl.acm.org/doi/pdf/10.1145/3219819.3219890?casa_token=TkOuG5zUrVgAAAAA:XQFAL6IeiSJ9qBAkE05EZWXhMn21AkbMV7X5APIBE5u1uO1ZpnBCq2llxUmxwyyl8YxdnxzOtJZa)
+140. **Graph convolutional neural networks for web-scale recommender systems. Knowledge Discovery & Data Mining. 2018*** [pdf](https://dl.acm.org/doi/pdf/10.1145/3219819.3219890?casa_token=TkOuG5zUrVgAAAAA:XQFAL6IeiSJ9qBAkE05EZWXhMn21AkbMV7X5APIBE5u1uO1ZpnBCq2llxUmxwyyl8YxdnxzOtJZa)<br>
     *Ying, Rex and He, Ruining and Chen, Kaifeng and Eksombatchai, Pong and Hamilton, William L and Leskovec, Jure*
 
 141. **Protein interface prediction using graph convolutional networks. Advances in Neural Information Processing Systems. 2017***
- [pdf](https://papers.nips.cc/paper/7231-protein-interface-prediction-using-graph-convolutional-networks.pdf)  [code](https://github.com/fouticus/pipgcn)
+ [pdf](https://papers.nips.cc/paper/7231-protein-interface-prediction-using-graph-convolutional-networks.pdf)  [code](https://github.com/fouticus/pipgcn)<br>
 	    *Fout, Alex and Byrd, Jonathon and Shariat, Basir and Ben-Hur, Asa*
 
 142. **Adaptive graph convolutional neural networks. Thirty-second AAAI conference on artificial intelligence. 2018***
- [pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16642/16554)  [code](https://github.com/fouticus/pipgcn)
+ [pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16642/16554)  [code](https://github.com/fouticus/pipgcn)<br>
     *Fout, Alex and Byrd, Jonathon and Shariat, Basir and Ben-Hur, Asa*
 
 143. **Two-stream adaptive graph convolutional networks for skeleton-based action recognition. IEEE Conference on Computer Vision and Pattern Recognition. 2019***
- [pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Two-Stream_Adaptive_Graph_Convolutional_Networks_for_Skeleton-Based_Action_Recognition_CVPR_2019_paper.pdf)  [code](https://github.com/lshiwjx/2s-AGCN)
+ [pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Two-Stream_Adaptive_Graph_Convolutional_Networks_for_Skeleton-Based_Action_Recognition_CVPR_2019_paper.pdf)  [code](https://github.com/lshiwjx/2s-AGCN)<br>
     *Shi, Lei and Zhang, Yifan and Cheng, Jian and Lu, Hanqing*
 
 144. **An attention enhanced graph convolutional lstm network for skeleton-based action recognition. IEEE conference on computer vision and pattern recognition. 2019***
- [pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Si_An_Attention_Enhanced_Graph_Convolutional_LSTM_Network_for_Skeleton-Based_Action_CVPR_2019_paper.pdf)
+ [pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Si_An_Attention_Enhanced_Graph_Convolutional_LSTM_Network_for_Skeleton-Based_Action_CVPR_2019_paper.pdf)<br>
     *Si, Chenyang and Chen, Wentao and Wang, Wei and Wang, Liang and Tan, Tieniu*
 
 145. **Scene graph generation from objects, phrases and region captions. IEEE International Conference on Computer Vision. 2017***
-[pdf](https://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Scene_Graph_Generation_ICCV_2017_paper.pdf)
+[pdf](https://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Scene_Graph_Generation_ICCV_2017_paper.pdf)<br>
     *Li, Yikang and Ouyang, Wanli and Zhou, Bolei and Wang, Kun and Wang, Xiaogang*
 
 147. **Defactor: Differentiable edge factorization-based probabilistic graph generation. arXiv. 2018***
- [pdf](https://arxiv.org/pdf/1811.09766.pdf)
+ [pdf](https://arxiv.org/pdf/1811.09766.pdf)<br>
    *Assouel, Rim and Ahmed, Mohamed and Segler, Marwin H and Saffari, Amir and Bengio, Yoshua*
 
 148. **Evolving random graph generators: A case for increased algorithmic primitive granularity. 2016 IEEE Symposium Series on Computational Intelligence (SSCI). 2016***
- [pdf](https://web.mst.edu/~tauritzd/pubs/2016/Pope2016a.pdf)
+ [pdf](https://web.mst.edu/~tauritzd/pubs/2016/Pope2016a.pdf)<br>
     *Pope, Aaron S and Tauritz, Daniel R and Kent, Alexander D*
 
 149. **Graph r-cnn for scene graph generation. European conference on computer vision (ECCV). 2018***
- [pdf](https://openaccess.thecvf.com/content_ECCV_2018/papers/Jianwei_Yang_Graph_R-CNN_for_ECCV_2018_paper.pdf)  [code](https://github.com/jwyang/graph-rcnn.pytorch)
+ [pdf](https://openaccess.thecvf.com/content_ECCV_2018/papers/Jianwei_Yang_Graph_R-CNN_for_ECCV_2018_paper.pdf)  [code](https://github.com/jwyang/graph-rcnn.pytorch)<br>
     *Yang, Jianwei and Lu, Jiasen and Lee, Stefan and Batra, Dhruv and Parikh, Devi*
 
 150. **SHADOWCAST: Controlling Network Properties to Explain Graph Generation. arXiv. 2020***
- [pdf](https://arxiv.org/pdf/2006.03774.pdf)
+ [pdf](https://arxiv.org/pdf/2006.03774.pdf)<br>
    *Tann, Wesley Joon-Wie and Chang, Ee-Chien and Hooi, Bryan*
 
 151. **Factorizable net: an efficient subgraph-based framework for scene graph generation. European Conference on Computer Vision (ECCV). 2018***
- [pdf](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yikang_LI_Factorizable_Net_An_ECCV_2018_paper.pdf)  [code](https://github.com/yikang-li/FactorizableNet)
+ [pdf](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yikang_LI_Factorizable_Net_An_ECCV_2018_paper.pdf)  [code](https://github.com/yikang-li/FactorizableNet)<br>
     *Li, Yikang and Ouyang, Wanli and Zhou, Bolei and Shi, Jianping and Zhang, Chao and Wang, Xiaogang*
 
 152. **Ring system-based chemical graph generation for de novo molecular design. Journal of computer-aided molecular design. 2016***
- [pdf](https://link.springer.com/content/pdf/10.1007/s10822-016-9916-1.pdf)
+ [pdf](https://link.springer.com/content/pdf/10.1007/s10822-016-9916-1.pdf)<br>
      *Miyao, Tomoyuki and Kaneko, Hiromasa and Funatsu, Kimito*
 
 153. **Unbiased scene graph generation from biased training. IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020***
  [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tang_Unbiased_Scene_Graph_Generation_From_Biased_Training_CVPR_2020_paper.pdf)
- [code](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch)
+ [code](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch)<br>
     *Tang, Kaihua and Niu, Yulei and Huang, Jianqiang and Shi, Jiaxin and Zhang, Hanwang*
 
 154. **A constrained molecular graph generation with imposed and forbidden fragments. 9th Hellenic Conference on Artificial Intelligence. 2016***
- [pdf](https://dl.acm.org/doi/pdf/10.1145/2903220.2903234?casa_token=QSX6uK08n9EAAAAA:3tjP0m1PijsOquIDh2yiNjRiDj5YwK1TxlzaizvpXFxEi1XaighdDu_LGkOGLAjv6ysMB1t9wsqP)
+ [pdf](https://dl.acm.org/doi/pdf/10.1145/2903220.2903234?casa_token=QSX6uK08n9EAAAAA:3tjP0m1PijsOquIDh2yiNjRiDj5YwK1TxlzaizvpXFxEi1XaighdDu_LGkOGLAjv6ysMB1t9wsqP)<br>
     *Omrani, Mohamed Amine and Naanaa, Wady*
 
 155. **Fast random cactus graph generation. International Conference on Supercomputing in Mexico. 2018***
- [pdf](https://link.springer.com/chapter/10.1007/978-3-030-10448-1_12)
+ [pdf](https://link.springer.com/chapter/10.1007/978-3-030-10448-1_12)<br>
     *Trejo-Sánchez, Joel Antonio and Vela-Navarro, Andrés and Flores-Lamas, Alejandro and López-Martínez, José Luis and Bermejo-Sabbagh, Carlos and Cuevas-Cuevas, Nora Leticia and Toral-Cruz, Homero*
 
 156. **Using the Marshall-Olkin extended Zipf distribution in graph generation. European Conference on Parallel Processing. 2015***
- [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-27308-2_40.pdf)
+ [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-27308-2_40.pdf)<br>
      *Duarte-López, Ariel and Prat-Pérez, Arnau and Pérez-Casany, Marta*
 
 157. **Molecular hypergraph grammar with its application to molecular optimization. International Conference on Machine Learning. 2019***
- [pdf](http://proceedings.mlr.press/v97/kajino19a/kajino19a.pdf)  [code](https://github.com/ibm-research-tokyo/graph_grammar)
+ [pdf](http://proceedings.mlr.press/v97/kajino19a/kajino19a.pdf)  [code](https://github.com/ibm-research-tokyo/graph_grammar)<br>
     *Kajino, Hiroshi*
 
 158. **Chembo: Bayesian optimization of small organic molecules with synthesizable recommendations. International Conference on Artificial Intelligence and Statistics. 2020***
- [pdf](http://proceedings.mlr.press/v108/korovina20a/korovina20a.pdf)  [code](https://github.com/ks-korovina/chembo)
+ [pdf](http://proceedings.mlr.press/v108/korovina20a/korovina20a.pdf)  [code](https://github.com/ks-korovina/chembo)<br>
     *Korovina, Ksenia and Xu, Sailun and Kandasamy, Kirthevasan and Neiswanger, Willie and Poczos, Barnabas and Schneider, Jeff and Xing, Eric*
 
 159. **MolecularRNN: Generating realistic molecular graphs with optimized properties. arXiv. 2019***
- [pdf](https://arxiv.org/pdf/1905.13372.pdf)
+ [pdf](https://arxiv.org/pdf/1905.13372.pdf)<br>
      *Popova, Mariya and Shvets, Mykhailo and Oliva, Junier and Isayev, Olexandr*
 
 160. **Symmetry-adapted generation of 3d point sets for the targeted discovery of molecules. Advances in Neural Information Processing Systems. 2019***
- [pdf](https://papers.nips.cc/paper/8974-symmetry-adapted-generation-of-3d-point-sets-for-the-targeted-discovery-of-molecules.pdf)
+ [pdf](https://papers.nips.cc/paper/8974-symmetry-adapted-generation-of-3d-point-sets-for-the-targeted-discovery-of-molecules.pdf)<br>
     *Gebauer, Niklas and Gastegger, Michael and Schütt, Kristof*
 
 161. **Hierarchical Graph-to-Graph Translation for Molecules. ICLR 2020 Conference Blind Submission. 2019***
- [pdf](https://openreview.net/pdf?id=rJeeKTNKDB)  [code](https://github.com/wengong-jin/hgraph2graph)
+ [pdf](https://openreview.net/pdf?id=rJeeKTNKDB)  [code](https://github.com/wengong-jin/hgraph2graph)<br>
     *Wengong Jin, Regina Barzilay, Tommi Jaakkola*
 
 162. **A generative model for molecular distance geometry. arXiv. 2019***
- [pdf](https://arxiv.org/pdf/1909.11459.pdf)
+ [pdf](https://arxiv.org/pdf/1909.11459.pdf)<br>
     *Simm, Gregor NC and Hernández-Lobato, José Miguel*
 
 163. **MolecularRNN: Generating realistic molecular graphs with optimized properties. DeepAI. 2019***
- [pdf](https://arxiv.org/pdf/1905.13372v1.pdf)
+ [pdf](https://arxiv.org/pdf/1905.13372v1.pdf)<br>
     *Mariya Popova, Mykhailo Shvets, Junier Oliva, Olexandr Isayev*
 
 164. **Graph Deconvolutional Generation. arXiv. 2020***
- [pdf](https://arxiv.org/pdf/2002.07087.pdf)
+ [pdf](https://arxiv.org/pdf/2002.07087.pdf)<br>
     *Flam-Shepherd, Daniel and Wu, Tony and Aspuru-Guzik, Alan*
 
 165. **Generative adversarial networks (GAN) based efficient sampling of chemical space for inverse design of inorganic materials. arXiv. 2019***
- [pdf](https://arxiv.org/pdf/1911.05020.pdf)
+ [pdf](https://arxiv.org/pdf/1911.05020.pdf)<br>
     *Dan, Yabo and Zhao, Yong and Li, Xiang and Li, Shaobo and Hu, Ming and Hu, Jianjun*
 
 166. **Latent molecular optimization for targeted therapeutic design. arXiv. 2018***
- [pdf](https://arxiv.org/pdf/1809.02032.pdf)
+ [pdf](https://arxiv.org/pdf/1809.02032.pdf)<br>
 		*Aumentado-Armstrong, Tristan*
 
 167. **Generalization and representational limits of graph neural networks. arXiv. 2020***
- [pdf](https://arxiv.org/pdf/2002.06157.pdf)
+ [pdf](https://arxiv.org/pdf/2002.06157.pdf)<br>
     *Garg, Vikas K and Jegelka, Stefanie and Jaakkola, Tommi*
 
 168. **Learning multimodal graph-to-graph translation for molecular optimization. arXiv. 2018***
- [pdf](https://arxiv.org/pdf/1812.01070.pdf)  [code](https://github.com/wengong-jin/iclr19-graph2graph)
+ [pdf](https://arxiv.org/pdf/1812.01070.pdf)<br>  [code](https://github.com/wengong-jin/iclr19-graph2graph)
     *Jin, Wengong and Yang, Kevin and Barzilay, Regina and Jaakkola, Tommi*
 
 169. **Constrained bayesian optimization for automatic chemical design. arXiv. 2017***
- [pdf](https://arxiv.org/pdf/1709.05501.pdf)  [code](https://github.com/Ryan-Rhys/Constrained-Bayesian-Optimisation-for-Automatic-Chemical-Design)
+ [pdf](https://arxiv.org/pdf/1709.05501.pdf)  [code](https://github.com/Ryan-Rhys/Constrained-Bayesian-Optimisation-for-Automatic-Chemical-Design)<br>
     *Ryan-Rhys Griffiths, José Miguel Hernández-Lobato*
 
 170. **Concepts of artificial intelligence for computer-assisted drug discovery. Chemical reviews. 2019***
- [pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.8b00728)
+ [pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.8b00728)<br>
     *Yang, Xin and Wang, Yifei and Byrne, Ryan and Schneider, Gisbert and Yang, Shengyong*
 
 171. **Adversarial autoencoders with constant-curvature latent manifolds. Applied Soft Computing. 2019***
- [pdf](https://pdf.sciencedirectassets.com/272229/1-s2.0-S1568494619X0006X/1-s2.0-S1568494619302819/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCZuJv1HYRMWvJ0ksJaLl76Zd93z3mo41OE0XDLfFy5BwIgPEAc4hFo5e2N2C1i1nKo50ho34cySffFKAFLsP483ngqtAMIfhADGgwwNTkwMDM1NDY4NjUiDC%2FSK0kJVTf3lQiDRiqRAyyfs5cO3myV%2FmuoXkrixJd8uE4GwUTyFJ%2FlvInwCwsNxPy4E9ZvMeg%2FB1BxDkMTlzlQCLUyukp%2FqTlOgR%2BieOz%2FJuN7DS1pEGoUHJV0KxCQRkmSP2TBNE3KnOUyuYunaZIL%2Fb99bVXLxKwmKvzi3%2FmkqIEhol%2FOlByg9Dv06POO%2BEUdtpcjBJ8WT98ZUa0ndwX9SSQ8OvcB8ysvO2Nfkg1SDTf82TRHPc5HLzIIaM4Pv%2FcBus9yVJgEbpSG5LfPuGWdTJ9hABagtc7YZ4YdZgLFGSDbtmjWbyzEWMTVKPy96l1nSWvh%2B%2FtVEbYnXFpwTVcDQGDGbbzFu7E8xjXWjiCFdEM9jMAoTKe%2BcHFcrcJJWLUSofLVxdpEkneLmiHSDFnHx7zDVHNOsO5r4MT79p5fmn8l%2F2OOz9NPwOqO%2Fom%2BHeOjxMM%2BQMoHnh6g9ZBuzomMDFbO0PnHVwXr8XviXmQGN4GyXeLrK8t6iBqvT8STvGznrpTiYPvNVsB8tHWOvDES0AJ7gKC9eVx90emK0RBkMISq%2FvcFOusB1rXuOkVops1YQSmdJT%2FZs0SVIzhQdJiE%2BumpiY4aTuIB0PV290qRWxfSbHUlzn2akT%2BIbeguv1kWPkdqDygZTl%2BT78m4dj8klOFmg7Yi8olJKDVknEu4f%2FnSAcfKsWBGkZvjDuxeLHVn1z6lF7cWux4h2JAFwWXPkjQpAaodvR2ibPzXgqZt6U9T7sAuz9R5KEnvwRWHWJcsOnBbQm1M40W%2BI5qgkt4G9v%2BrDJMihXwq%2FQUkawjaO%2FEjkeSci%2FMYilXn48ggNVuvW5KCKikMMd07Td4vG%2B7UhqpUc9shF%2B4Vg%2Ff43oVQKsHfGQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200703T211659Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYUYFHNNB7%2F20200703%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=5ecb25f06f272a278776f00355027e339e8912a93166f451889cb9f7ebe5baef&hash=9bcb6bb04a6070700ba7eb52a8b44bbc5db20ec0d1a22909399ac48b3baa4e6a&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1568494619302819&tid=spdf-1254648a-dee7-4e7e-82d8-24b5b8126f61&sid=d50c92a96827534c656b8ea78566e33a8035gxrqa&type=client)  [code](https://github.com/danielegrattarola/ccm-aae)
+ [pdf](https://pdf.sciencedirectassets.com/272229/1-s2.0-S1568494619X0006X/1-s2.0-S1568494619302819/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCZuJv1HYRMWvJ0ksJaLl76Zd93z3mo41OE0XDLfFy5BwIgPEAc4hFo5e2N2C1i1nKo50ho34cySffFKAFLsP483ngqtAMIfhADGgwwNTkwMDM1NDY4NjUiDC%2FSK0kJVTf3lQiDRiqRAyyfs5cO3myV%2FmuoXkrixJd8uE4GwUTyFJ%2FlvInwCwsNxPy4E9ZvMeg%2FB1BxDkMTlzlQCLUyukp%2FqTlOgR%2BieOz%2FJuN7DS1pEGoUHJV0KxCQRkmSP2TBNE3KnOUyuYunaZIL%2Fb99bVXLxKwmKvzi3%2FmkqIEhol%2FOlByg9Dv06POO%2BEUdtpcjBJ8WT98ZUa0ndwX9SSQ8OvcB8ysvO2Nfkg1SDTf82TRHPc5HLzIIaM4Pv%2FcBus9yVJgEbpSG5LfPuGWdTJ9hABagtc7YZ4YdZgLFGSDbtmjWbyzEWMTVKPy96l1nSWvh%2B%2FtVEbYnXFpwTVcDQGDGbbzFu7E8xjXWjiCFdEM9jMAoTKe%2BcHFcrcJJWLUSofLVxdpEkneLmiHSDFnHx7zDVHNOsO5r4MT79p5fmn8l%2F2OOz9NPwOqO%2Fom%2BHeOjxMM%2BQMoHnh6g9ZBuzomMDFbO0PnHVwXr8XviXmQGN4GyXeLrK8t6iBqvT8STvGznrpTiYPvNVsB8tHWOvDES0AJ7gKC9eVx90emK0RBkMISq%2FvcFOusB1rXuOkVops1YQSmdJT%2FZs0SVIzhQdJiE%2BumpiY4aTuIB0PV290qRWxfSbHUlzn2akT%2BIbeguv1kWPkdqDygZTl%2BT78m4dj8klOFmg7Yi8olJKDVknEu4f%2FnSAcfKsWBGkZvjDuxeLHVn1z6lF7cWux4h2JAFwWXPkjQpAaodvR2ibPzXgqZt6U9T7sAuz9R5KEnvwRWHWJcsOnBbQm1M40W%2BI5qgkt4G9v%2BrDJMihXwq%2FQUkawjaO%2FEjkeSci%2FMYilXn48ggNVuvW5KCKikMMd07Td4vG%2B7UhqpUc9shF%2B4Vg%2Ff43oVQKsHfGQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200703T211659Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYUYFHNNB7%2F20200703%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=5ecb25f06f272a278776f00355027e339e8912a93166f451889cb9f7ebe5baef&hash=9bcb6bb04a6070700ba7eb52a8b44bbc5db20ec0d1a22909399ac48b3baa4e6a&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1568494619302819&tid=spdf-1254648a-dee7-4e7e-82d8-24b5b8126f61&sid=d50c92a96827534c656b8ea78566e33a8035gxrqa&type=client)  [code](https://github.com/danielegrattarola/ccm-aae)<br>
     *Grattarola, Daniele and Livi, Lorenzo and Alippi, Cesare*
 
 172. **Towards Molecule Generation with Heterogeneous States via Reinforcement Learning. Master Thesis University of Sydney. 2020***
- [pdf](https://ses.library.usyd.edu.au/bitstream/handle/2123/22335/Shi_Thesis.pdf?sequence=4&isAllowed=y)
+ [pdf](https://ses.library.usyd.edu.au/bitstream/handle/2123/22335/Shi_Thesis.pdf?sequence=4&isAllowed=y)<br>
     *Fangzhou Shi*
 
 173. **Direct steering of de novo molecular generation with descriptor conditional recurrent neural networks. Nature Machine Intelligence. 2020***
- [pdf](https://www.nature.com/articles/s42256-020-0174-5)
+ [pdf](https://www.nature.com/articles/s42256-020-0174-5)<br>
     *Panagiotis-Christos Kotsias, Josep Arús-Pous, Hongming Chen, Ola Engkvist, Christian Tyrchan & Esben Jannik Bjerrum*
 
 174. **Artificial Intelligence Based Design of Polymers and Metal Composites: A Perspective . Current Topics in Medicinal Chemistry. 2020***
- [pdf](docserver.ingentaconnect.com/deliver/connect/ben/15680266/v20n11/s2.pdf?expires=1593813680&id=0000&titleid=3902&checksum=9C29BDBE091439A97F31454D4CDA165D)
+ [pdf](docserver.ingentaconnect.com/deliver/connect/ben/15680266/v20n11/s2.pdf?expires=1593813680&id=0000&titleid=3902&checksum=9C29BDBE091439A97F31454D4CDA165D)<br>
     *Anju Manuja and Mayank Manuja*
 
 175. **Discovery of Novel Chemical Reactions by Deep Generative Recurrent Neural Network. ChemRxiv. 2020***
- [pdf](https://chemrxiv.org/articles/Discovery_of_Novel_Chemical_Reactions_by_Deep_Generative_Recurrent_Neural_Network/11635929/files/21191058.pdf)
+ [pdf](https://chemrxiv.org/articles/Discovery_of_Novel_Chemical_Reactions_by_Deep_Generative_Recurrent_Neural_Network/11635929/files/21191058.pdf)<br>
     *Bort, William and Baskin, Igor I and Sidorov, Pavel and Marcou, Gilles and Horvath, Dragos and Madzhidov, Timur and Varnek, Alexandre and Gimadiev, Timur and Nugmanov, Ramil and Mukanov, Artem*
 
 176. **Rethinking drug design in the artificial intelligence era. Nature Reviews Drug Discovery. 2019***
- [pdf](https://www.nature.com/articles/s41573-019-0050-3.pdf)
+ [pdf](https://www.nature.com/articles/s41573-019-0050-3.pdf)<br>
     *Schneider, Petra and Walters, W Patrick and Plowright, Alleyn T and Sieroka, Norman and Listgarten, Jennifer and Goodnow, Robert A and Fisher, Jasmin and Jansen, Johanna M and Duca, José S and Rush, Thomas S and others*
 
 177. **Structure prediction drives materials discovery. Nature Reviews Materials. 2019***
- [pdf](https://www.repository.cam.ac.uk/bitstream/handle/1810/292161/NRM%20Accepted.pdf?sequence=3)
+ [pdf](https://www.repository.cam.ac.uk/bitstream/handle/1810/292161/NRM%20Accepted.pdf?sequence=3)<br>
     *Oganov, Artem R and Pickard, Chris J and Zhu, Qiang and Needs, Richard J
 
 178. **CloseGraph: mining closed frequent graph patterns. Ninth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. 2003***
- [pdf](https://dl.acm.org/doi/pdf/10.1145/956750.956784?casa_token=f4zdJZWLg-0AAAAA:5pvNRKTIrj0FemhH6A5y71Y34vYgmW8ymChbHLuxB0bzd0C_YxQKXgnn_Liu8Q8vhRvpZvffXdbw)
+ [pdf](https://dl.acm.org/doi/pdf/10.1145/956750.956784?casa_token=f4zdJZWLg-0AAAAA:5pvNRKTIrj0FemhH6A5y71Y34vYgmW8ymChbHLuxB0bzd0C_YxQKXgnn_Liu8Q8vhRvpZvffXdbw)<br>
 	   *Yan, Xifeng and Han, Jiawei*
 
 179. **Complex network measures of brain connectivity: uses and interpretations. NeuroImage. 2010***
- [pdf](https://pdf.sciencedirectassets.com/272508/1-s2.0-S1053811910X00131/1-s2.0-S105381190901074X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIDFSYuT1GNAMnAPxHVTghj1sjJ9piwL26mxK1We0m5HvAiEAnCO9hl9L8H4V4QYpMwp3RqepHB7n5CHhSMt4EX1qA%2B8qtAMIfhADGgwwNTkwMDM1NDY4NjUiDCiTT5htckfvYSqGKyqRAywQe%2FYm%2B2T6Dqf1ROoNrJCrQAu4nJ%2FgsoMpj5JlMLWUpq5U39Zzq09WvuH52vgswmWrAqXHhTtquHLf2VtT1uo9%2FcSgZEZ8d%2BpvB6VHllRd%2B7urNSJelg13bWKENi1MJ3fdoZljm6MazRDGnRwMqfuhJLufSeiAK1YVpqjmMquZ8AQWVUGQC03iMdnq3s5plE%2Bt%2BYgc59fc0xhe1sdySb6xhVojKUP24nuVuurSpEI55qiXtkyX67kE5tsqtIosV6eLoc4CCWgHUQ4L0BfwsFQtKcoozQlgpWgqKeCxbWtMGORI0f12js1OBLnmJ0JtbH7ZRlq7toO5S1gjF7d4XwEkhcq8pRcS73VFjbCyXwG%2BaVHnfPGmKcntMaOL2ywLrSiufyeshcSn0if1lBa%2B6i0P3ch0Xmy34kxxqGUJsgP9rkkfXdQj%2Bu9c61oy%2Bv7dI5T5yOlr2CQ6ss39UIk8w8o%2B%2BYKGyP33zNCFDXOwg0CwISErpZbgsE2rmXzmgNcMPrjimLqmMcnJfNorv7bNixgHMKvC%2FvcFOusBEq1stUFLZ53zxG81HHK3t5B7nViJ%2FhV%2BDX7EPB%2FlO9MzRUeCAnSwgB3417qB9PQYSJTuenwJ6yswQuFA2i3hVSkTQaS2peW5uhY2GaOzfb3tvcBnOCubzIGeRVMPUW2o8lm0VVGk%2BY3rRXqSpldpQvE2plD%2FQfGvv%2FxoW%2BJ08QYt7ubBxOUE7NXfkpmuor4Rk8u5gZPO11GRPy6wtEGKUoldwfZ%2F%2FuT3rv2KbT1WrvnyvS8M8q4S8vXoWWP0zV7gsY6VbXMe2eRiYZyufdyQWdQTGjX9hTpLcN2hAA5sAEM5XXtNrnDK72%2Ba8A%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200703T214754Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY2XRKLBW4%2F20200703%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=727749f385f85b85c12e6aa7f0d02fda72d10d326c14400d81a3e875ed85897c&hash=222c132351ffb3f25faa82c5ff765812b4f8b1a4608d15b4122077c4ace4d603&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S105381190901074X&tid=spdf-e20c6877-3784-4787-83e6-3e8f8979184b&sid=d50c92a96827534c656b8ea78566e33a8035gxrqa&type=client)   
+ [pdf](https://pdf.sciencedirectassets.com/272508/1-s2.0-S1053811910X00131/1-s2.0-S105381190901074X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIDFSYuT1GNAMnAPxHVTghj1sjJ9piwL26mxK1We0m5HvAiEAnCO9hl9L8H4V4QYpMwp3RqepHB7n5CHhSMt4EX1qA%2B8qtAMIfhADGgwwNTkwMDM1NDY4NjUiDCiTT5htckfvYSqGKyqRAywQe%2FYm%2B2T6Dqf1ROoNrJCrQAu4nJ%2FgsoMpj5JlMLWUpq5U39Zzq09WvuH52vgswmWrAqXHhTtquHLf2VtT1uo9%2FcSgZEZ8d%2BpvB6VHllRd%2B7urNSJelg13bWKENi1MJ3fdoZljm6MazRDGnRwMqfuhJLufSeiAK1YVpqjmMquZ8AQWVUGQC03iMdnq3s5plE%2Bt%2BYgc59fc0xhe1sdySb6xhVojKUP24nuVuurSpEI55qiXtkyX67kE5tsqtIosV6eLoc4CCWgHUQ4L0BfwsFQtKcoozQlgpWgqKeCxbWtMGORI0f12js1OBLnmJ0JtbH7ZRlq7toO5S1gjF7d4XwEkhcq8pRcS73VFjbCyXwG%2BaVHnfPGmKcntMaOL2ywLrSiufyeshcSn0if1lBa%2B6i0P3ch0Xmy34kxxqGUJsgP9rkkfXdQj%2Bu9c61oy%2Bv7dI5T5yOlr2CQ6ss39UIk8w8o%2B%2BYKGyP33zNCFDXOwg0CwISErpZbgsE2rmXzmgNcMPrjimLqmMcnJfNorv7bNixgHMKvC%2FvcFOusBEq1stUFLZ53zxG81HHK3t5B7nViJ%2FhV%2BDX7EPB%2FlO9MzRUeCAnSwgB3417qB9PQYSJTuenwJ6yswQuFA2i3hVSkTQaS2peW5uhY2GaOzfb3tvcBnOCubzIGeRVMPUW2o8lm0VVGk%2BY3rRXqSpldpQvE2plD%2FQfGvv%2FxoW%2BJ08QYt7ubBxOUE7NXfkpmuor4Rk8u5gZPO11GRPy6wtEGKUoldwfZ%2F%2FuT3rv2KbT1WrvnyvS8M8q4S8vXoWWP0zV7gsY6VbXMe2eRiYZyufdyQWdQTGjX9hTpLcN2hAA5sAEM5XXtNrnDK72%2Ba8A%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200703T214754Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY2XRKLBW4%2F20200703%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=727749f385f85b85c12e6aa7f0d02fda72d10d326c14400d81a3e875ed85897c&hash=222c132351ffb3f25faa82c5ff765812b4f8b1a4608d15b4122077c4ace4d603&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S105381190901074X&tid=spdf-e20c6877-3784-4787-83e6-3e8f8979184b&sid=d50c92a96827534c656b8ea78566e33a8035gxrqa&type=client) <br>  
     *Rubinov, Mikail and Sporns, Olaf*
 
 180. **Graph mining: Laws, generators, and algorithms. ACM computing surveys (CSUR). 2006***
- [pdf](https://dl.acm.org/doi/pdf/10.1145/1132952.1132954?casa_token=yCtw0OOIgXIAAAAA:cyoAXOkUPf7iRvXAWxUwjJ_dEhuwRu04YO1CeXMeyJQUns8Ses49cVO2lSjwLBXrgF8NpWl3oF-j)
+ [pdf](https://dl.acm.org/doi/pdf/10.1145/1132952.1132954?casa_token=yCtw0OOIgXIAAAAA:cyoAXOkUPf7iRvXAWxUwjJ_dEhuwRu04YO1CeXMeyJQUns8Ses49cVO2lSjwLBXrgF8NpWl3oF-j)<br>
     *Chakrabarti, Deepayan and Faloutsos, Christos*
 
 181. **A survey of statistical network models. Now Publishers Inc. 2010**
-  [pdf](https://arxiv.org/pdf/0912.5410)  
+  [pdf](https://arxiv.org/pdf/0912.5410)  <br>
         *Goldenberg Anna, Zheng Alice X, Fienberg Stephen E, Airoldi Edoardo M*
 182. **A random graph model for massive graphs. Proceedings of the thirty-second annual ACM symposium on Theory of computing. 2000**
-  [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.78.9450&rep=rep1&type=pdf)  
+  [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.78.9450&rep=rep1&type=pdf)<br>  
         *Aiello William, Chung Fan, Lu Linyuan*
 183. **Automated generation and analysis of attack graphs. Proceedings 2002 IEEE Symposium on Security and Privacy. 2002**
-  [pdf](http://wiki.cac.washington.edu/download/attachments/10000785/Automated+Generation+and+Analysis+of+Attack+Graphs.pdf)  
+  [pdf](http://wiki.cac.washington.edu/download/attachments/10000785/Automated+Generation+and+Analysis+of+Attack+Graphs.pdf)  <br>
         *Sheyner Oleg, Haines Joshua, Jha Somesh, Lippmann Richard, Wing Jeannette M*
 184. **Kronecker graphs: an approach to modeling networks. Journal of Machine Learning Research. 2010**
-  [pdf](https://arxiv.org/pdf/0812.4905)  
+  [pdf](https://arxiv.org/pdf/0812.4905)  <br>
         *Leskovec, Jure and Chakrabarti, Deepayan and Kleinberg, Jon and Faloutsos, Christos, Ghahramani Zoubin*
 185. **Genetic programming IV: Routine human-competitive machine intelligence. Springer Science & Business Media. 2006**
-  [pdf](https://www.researchgate.net/profile/William_Mydlowec/publication/243776894_Genetic_Programming_IV_Routine_Human-Competitive_Machine_Intelligence/links/565eec3c08aefe619b274986/Genetic-Programming-IV-Routine-Human-Competitive-Machine-Intelligence.pdf)    
+  [pdf](https://www.researchgate.net/profile/William_Mydlowec/publication/243776894_Genetic_Programming_IV_Routine_Human-Competitive_Machine_Intelligence/links/565eec3c08aefe619b274986/Genetic-Programming-IV-Routine-Human-Competitive-Machine-Intelligence.pdf)<br>    
         *John R. Koza, Martin A. Keane, Matthew J. Streeter, William Mydlowec, Jessen Yu, Guido Lanza*
 186. **BRITE: An approach to universal topology generation. MASCOTS 2001, Proceedings Ninth International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems. 2001**
-  [pdf](https://www.academia.edu/download/30406667/2001-003-brite-user-manual.pdf)  
+  [pdf](https://www.academia.edu/download/30406667/2001-003-brite-user-manual.pdf)  <br>
         *Medina Alberto, Lakhina Anukool, Matta Ibrahim, Byers John*
 187. **Grammar variational autoencoder. arXiv preprint arXiv:1703.01925. 2017**
-  [pdf](https://arxiv.org/pdf/1703.01925)   [code](https://github.com/mkusner/grammarVAE)
+  [pdf](https://arxiv.org/pdf/1703.01925)   [code](https://github.com/mkusner/grammarVAE)<br>
         *Matt J. Kusner, Brooks Paige, José Miguel Hernández-Lobato*
 188. **Constrained graph variational autoencoders for molecule design. Advances in neural information processing systems. 2018**
-  [pdf](https://papers.nips.cc/paper/8005-constrained-graph-variational-autoencoders-for-molecule-design.pdf)   [code](https://github.com/microsoft/constrained-graph-variational-autoencoder)
+  [pdf](https://papers.nips.cc/paper/8005-constrained-graph-variational-autoencoders-for-molecule-design.pdf)   [code](https://github.com/microsoft/constrained-graph-variational-autoencoder)<br>
    *Qi Liu, Miltiadis Allamanis, Marc Brockschmidt, Alexander L. Gaunt*
 189. **Molecular sets (MOSES): a benchmarking platform for molecular generation models. arXiv preprint arXiv:1811.12823. 2018**
-  [pdf](https://arxiv.org/pdf/1811.12823)   [code](https://github.com/ulamaca/moses)
+  [pdf](https://arxiv.org/pdf/1811.12823)   [code](https://github.com/ulamaca/moses)<br>
    *Daniil Polykovskiy, Alexander Zhebrak, Benjamin Sanchez-Lengeling, Sergey Golovanov, Oktai Tatanov, Stanislav Belyaev, Rauf Kurbanov, Aleksey Artamonov, Vladimir Aladinskiy, Mark Veselov, Artur Kadurin, Simon Johansson, Hongming Chen, Sergey Nikolenko, Alan Aspuru-Guzik, Alex Zhavoronkov*
 190. **Exploration of databases and methods supporting drug repurposing: a comprehensive survey. Briefings in Bioinformatics. 2020**
-  [pdf](https://academic.oup.com/bib/advance-article-pdf/doi/10.1093/bib/bbaa003/32451841/bbaa003.pdf)   
+  [pdf](https://academic.oup.com/bib/advance-article-pdf/doi/10.1093/bib/bbaa003/32451841/bbaa003.pdf)<br>   
         *Ziaurrehman Tanoli, Umair Seemab, Andreas Scherer, Krister Wennerberg, Jing Tang, Markus Vähä-Koskela*
 191. **Inorganic Crystal Structure Database (ICSD). Wiley Online Library. 2019**
-  [pdf](https://onlinelibrary.wiley.com/iucr/itc/Ha/ch3o7v0001/sec3o7o4.pdf)  
+  [pdf](https://onlinelibrary.wiley.com/iucr/itc/Ha/ch3o7v0001/sec3o7o4.pdf)  <br>
         *Kaduk JA*
-192. **Inverse design of crystals using generalized invertible crystallographic representation. arXiv preprint arXiv:2005.07609 2020** [pdf](https://arxiv.org/pdf/2005.07609.pdf)
+192. **Inverse design of crystals using generalized invertible crystallographic representation. arXiv preprint arXiv:2005.07609 2020** [pdf](https://arxiv.org/pdf/2005.07609.pdf)<br>
        *Ren Zekun, Noh Juhwan, Tian Siyu, Oviedo Felipe, Xing Guangzong, Liang Qiaohao, Aberle Armin, Liu Yi, Li Qianxiao, Jayavelu Senthilnath, others*
 193. **Deep Learning Enabled Inorganic Material Generator. ChemRxiv. 2020**
-  [pdf](https://chemrxiv.org/articles/Deep_Learning_Enabled_Inorganic_Material_Generator/12312260/files/22695941.pdf) [code](https://github.com/devalab/DING)
+  [pdf](https://chemrxiv.org/articles/Deep_Learning_Enabled_Inorganic_Material_Generator/12312260/files/22695941.pdf) [code](https://github.com/devalab/DING)<br>
         *Pathak Yashaswi, Juneja Karandeep Singh, Varma Girish, Ehara Masahiro, Priyakumar U*
 194. **The Generated Databases (GDBs) as a Source of 3D-shaped Building Blocks for Use in Medicinal Chemistry and Drug Discovery. CHIMIA International Journal for Chemistry. 2020**
-  [pdf](https://www.ingentaconnect.com/contentone/scs/chimia/2020/00000074/00000004/art00006?crawler=true&mimetype=application/pdf)  
+  [pdf](https://www.ingentaconnect.com/contentone/scs/chimia/2020/00000074/00000004/art00006?crawler=true&mimetype=application/pdf)  <br>
         *Meier Kris1, Bühlmann Sven, Arús-Pous Josep, Reymond Jean-Louis*
 195. **USPEX—Evolutionary crystal structure prediction. Computer physics communications. 2006**
-  [pdf](https://uspex-team.org/static/file/CPC-USPEX-2006.pdf)  
+  [pdf](https://uspex-team.org/static/file/CPC-USPEX-2006.pdf) <br> 
         *Glass Colin W, Oganov Artem R, Hansen Nikolaus*
 196. **Crystal structure prediction via particle-swarm optimization. Physical Review B. 2010**
-  [pdf](https://arxiv.org/pdf/1008.3601)  
+  [pdf](https://arxiv.org/pdf/1008.3601) <br> 
         *Wang Yanchao, Lv Jian, Zhu Li, Ma Yanming*
 197. **CALYPSO: A method for crystal structure prediction. Computer Physics Communications. 2012**
-  [pdf](https://arxiv.org/pdf/1205.2264)  
+  [pdf](https://arxiv.org/pdf/1205.2264)<br>  
         *Wang Yanchao, Lv Jian, Zhu Li, Ma Yanming*
 198. **Inverse design in search of materials with target functionalities. Nature Reviews Chemistry. 2018**
-  [pdf](https://www.colorado.edu/faculty/zunger-matter-by-design/sites/default/files/attached-files/689.pdf)  
+  [pdf](https://www.colorado.edu/faculty/zunger-matter-by-design/sites/default/files/attached-files/689.pdf)  <br>
         *Zunger Alex*
 199. **Inverse molecular design using machine learning: Generative models for matter engineering. Science. 2018**
-  [pdf](https://science.sciencemag.org/content/361/6400/360.full.pdf)  
+  [pdf](https://science.sciencemag.org/content/361/6400/360.full.pdf)<br>  
         *Benjamin Sanchez-Lengeling, ProfileAlán Aspuru-Guzik*
 200. **Machine-enabled inverse design of inorganic solid materials: promises and challenges. Chemical Science. 2020**
-  [pdf](https://pubs.rsc.org/en/content/articlepdf/2020/sc/d0sc00594k)  
+  [pdf](https://pubs.rsc.org/en/content/articlepdf/2020/sc/d0sc00594k)  <br>
         *Juhwan Noh, Geun Ho Gu , Sungwon Kim, Yousung Jung*
 201. **Study of deep generative models for inorganic chemical compositions. arXiv preprint arXiv:1910.11499. 2019**
-  [pdf](https://arxiv.org/pdf/1910.11499)  
+  [pdf](https://arxiv.org/pdf/1910.11499)<br>  
         *Sawada Yoshihide, Morikawa Koji, Fujii Mikiya*
 202. **Crystalgan: learning to discover crystallographic structures with generative adversarial networks. arXiv preprint arXiv:1810.11203. 2018**
-  [pdf](https://arxiv.org/pdf/1810.11203) [code](https://github.com/asmanouira/CrystalGAN)
+  [pdf](https://arxiv.org/pdf/1810.11203) [code](https://github.com/asmanouira/CrystalGAN)<br>
         *Nouira Asma, Sokolovska Nataliya, Crivello Jean-Claude*
 203. **Inverse design of solid-state materials via a continuous representation. Matter. 2019**
-  [pdf](https://www.sciencedirect.com/science/article/pii/S2590238519301754/pdfft?md5=75a883da562406a7111b3a247c7b755e&pid=1-s2.0-S2590238519301754-main.pdf) [code](https://github.com/nd-02110114/pytorch-imatgen)
+  [pdf](https://www.sciencedirect.com/science/article/pii/S2590238519301754/pdfft?md5=75a883da562406a7111b3a247c7b755e&pid=1-s2.0-S2590238519301754-main.pdf) [code](https://github.com/nd-02110114/pytorch-imatgen)<br>
         *Noh Juhwan, Kim Jaehoon, Stein Helge S, Sanchez-Lengeling Benjamin, Gregoire John M, Aspuru-Guzik Alan, Jung Yousung*
 204. **Generative adversarial networks for crystal structure prediction. arXiv preprint arXiv:2004.01396. 2020**
-  [pdf](https://arxiv.org/pdf/2004.01396)  
+  [pdf](https://arxiv.org/pdf/2004.01396)  <br>
         *Sungwon Kim, Juhwan Noh, Geun Ho Gu, Alán Aspuru-Guzik, Yousung Jung*
 205. **Commentary: The Materials Project: A materials genome approach to accelerating materials innovation. Apl Materials. 2013**
-  [pdf](http://aip.scitation.org/doi/pdf/10.1063/1.4812323)  
+  [pdf](http://aip.scitation.org/doi/pdf/10.1063/1.4812323) <br> 
         *Anubhav Jain, Shyue Ping Ong, Geoffroy Hautier, Wei Chen, William Davidson Richards, Stephen Dacek, Shreyas Cholia, Dan Gunter, David Skinner, Gerbrand Ceder,  Kristin A. Persson*
 206. **The Open Quantum Materials Database (OQMD): assessing the accuracy of DFT formation energies. npj Computational Materials. 2015**
-  [pdf](https://www.nature.com/articles/npjcompumats201510.pdf)  
+  [pdf](https://www.nature.com/articles/npjcompumats201510.pdf)<br>  
         *Scott Kirklin, James E Saal, Bryce Meredig, Alex Thompson, Jeff W Doak, Muratahan Aykol, Stephan Rühl, Chris Wolverton*
 207. **Graph model-based approach to the representation, interpretation, and execution of signal processing systems. International Journal of Intelligent Systems. 1988**
-  [pdf](https://dacemirror.sci-hub.st/journal-article/6632851caa4ab2f69cc2dce28b5f9898/sztipanovits1988.pdf)  
+  [pdf](https://dacemirror.sci-hub.st/journal-article/6632851caa4ab2f69cc2dce28b5f9898/sztipanovits1988.pdf)  <br>
         *J. Sztipanovits, G. Karsai, C. Biegl*
 208. **Bond Graph model of a PEM fuel cell. Journal of Power Sources. 2006**
-  [pdf](https://cyber.sci-hub.st/MTAuMTAxNi9qLmpwb3dzb3VyLjIwMDUuMDguMDQw/saisset2006.pdf)  
+  [pdf](https://cyber.sci-hub.st/MTAuMTAxNi9qLmpwb3dzb3VyLjIwMDUuMDguMDQw/saisset2006.pdf)<br>  
         *Rémi Saisset, Guillaume Fontes, Christophe Turpin, Stéphan Astier*
 209. **Graph-based semi-supervised learning as a generative model. Carnegie Mellon University. 2007**
-  [pdf](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-401.pdf)  
+  [pdf](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-401.pdf) <br> 
         *Jingrui He, Jaime Carbonell, Yan Liu*
 210. **Generative code modeling with graphs. arXiv preprint arXiv:1805.08490. 2018**
-  [pdf](https://arxiv.org/pdf/1805.08490)  
+  [pdf](https://arxiv.org/pdf/1805.08490)<br>  
         *Marc Brockschmidt, Miltiadis Allamanis, Alexander L. Gaunt, Oleksandr Polozov*
 211. **Deep Learning for Source Code Modeling and Generation: Models, Applications and Challenges. ACM Computing Surveys (CSUR). 2020**
-  [pdf](https://arxiv.org/pdf/2002.05442)  
+  [pdf](https://arxiv.org/pdf/2002.05442) <br> 
         *Hao Chen, Triet Huynh Minh Le, Muhammad Ali Babar*
 212. **Interior Layout Generation Based on Scene Graph and Graph Generation Model. Design Computing and Cognition DCC’20. 2020**
-  [pdf](https://www.researchgate.net/profile/Xia_Su3/publication/341440900_Interior_Layout_Generation_Based_on_Scene_Graph_and_Graph_Generation_Model/links/5ec0b8c2458515626cacdd24/Interior-Layout-Generation-Based-on-Scene-Graph-and-Graph-Generation-Model.pdf)  
+  [pdf](https://www.researchgate.net/profile/Xia_Su3/publication/341440900_Interior_Layout_Generation_Based_on_Scene_Graph_and_Graph_Generation_Model/links/5ec0b8c2458515626cacdd24/Interior-Layout-Generation-Based-on-Scene-Graph-and-Graph-Generation-Model.pdf)<br>  
         *Xia Su, Chenglin Wu, Wen Gao, Weixin Huang*
 213. **A Neural Framework for Learning DAG to DAG Translation. 32nd Conference on Neural Information Processing Systems (NIPS 2018). 2018**
-  [pdf](http://www.ccs.neu.edu/home/clara/resources/neural-framework-learning.pdf)  
+  [pdf](http://www.ccs.neu.edu/home/clara/resources/neural-framework-learning.pdf)<br>  
         *M. Clara De Paolis Kaluza, Saeed Amizadeh, Rose Yu*
 214. **Attention-Based Graph Evolution. Pacific-Asia Conference on Knowledge Discovery and Data Mining. Pacific-Asia Conference on Knowledge Discovery and Data Mining. 2020**
-  [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-47426-3_34.pdf)  
+  [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-47426-3_34.pdf) <br> 
         *Shuangfei Fan, authorBert Huang*
 215. **A symmetry-based generative model for shape. 2007 IEEE 11th International Conference on Computer Vision. IEEE. 2007**
-  [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.308.8156&rep=rep1&type=pdf)  
+  [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.308.8156&rep=rep1&type=pdf)<br>  
         *Nhon H. Trinh, Benjamin B. Kimia*
 216. **Edge replacement grammars: A formal language approach for generating graphs. Proceedings of the 2019 SIAM International Conference on Data Mining. 2019**
-  [pdf](https://arxiv.org/pdf/1902.07159)  
+  [pdf](https://arxiv.org/pdf/1902.07159)<br>  
         *Revanth Reddy, Sarath Chandar, Balaraman Ravindran*
 217. **Neural turtle graphics for modeling city road layouts. Proceedings of the IEEE International Conference on Computer Vision. 2019**
-  [pdf](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chu_Neural_Turtle_Graphics_for_Modeling_City_Road_Layouts_ICCV_2019_paper.pdf) [code](https://github.com/nv-tlabs/NTG)
+
+  [pdf](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chu_Neural_Turtle_Graphics_for_Modeling_City_Road_Layouts_ICCV_2019_paper.pdf) [code](https://github.com/nv-tlabs/NTG)<br>
         *Hang Chu, Daiqing Li, David Acuna, Amlan Kar, Maria Shugrina, Xinkai Wei, Ming-Yu Liu, Antonio Torralba, Sanja Fidler*
 218. **Image-Conditioned Graph Generation for Road Network Extraction. arXiv preprint arXiv:1910.14388. 2019**
-  [pdf](https://arxiv.org/pdf/1910.14388) [code](https://github.com/davide-belli/generative-graph-transformer)
+  [pdf](https://arxiv.org/pdf/1910.14388) [code](https://github.com/davide-belli/generative-graph-transformer)<br>
         *Davide Belli, Thomas Kipf*
 219. **Modelling urban networks using Variational Autoencoders. Applied Network Science. 2019**
-  [pdf](https://appliednetsci.springeropen.com/track/pdf/10.1007/s41109-019-0234-0)  
+  [pdf](https://appliednetsci.springeropen.com/track/pdf/10.1007/s41109-019-0234-0)  <br>
         *Kira Kempinska, Roberto Murcio*
 220. **Generative molecular design in low data regimes. Nature Machine Intelligence. 2020**
-  [pdf]([https://www.nature.com/articles/s42256-020-0160-y](https://www.nature.com/articles/s42256-020-0160-y)    [code](https://github.com/ETHmodlab/virtual_libraries)
+  [pdf]([https://www.nature.com/articles/s42256-020-0160-y](https://www.nature.com/articles/s42256-020-0160-y)    [code](https://github.com/ETHmodlab/virtual_libraries)<br>
         *Michael Moret, Lukas Friedrich, Francesca Grisoni, Daniel Merk, Gisbert Schneider*
 221. **Artificial intelligence in chemistry and drug design. Springer. 2020**
-  [pdf](https://link.springer.com/content/pdf/10.1007/s10822-020-00317-x.pdf)  
+  [pdf](https://link.springer.com/content/pdf/10.1007/s10822-020-00317-x.pdf) <br> 
         *Nathan Brown, Peter Ertl,  Richard Lewis, Torsten Luksch, Daniel Reker, Nadine Schneider*
 222. **Learning localized generative models for 3d point clouds via graph convolution. International conference on learning representations. 2018**
-  [pdf](https://openreview.net/pdf?id=SJeXSo09FQ)  
+  [pdf](https://openreview.net/pdf?id=SJeXSo09FQ) <br> 
         *Diego Valsesia, Giulia Fracastoro, Enrico Magli*
 223. **Generative graph prototypes from information theory. IEEE transactions on pattern analysis and machine intelligence. 2015**
-  [pdf](https://www.researchgate.net/profile/Edwin_Hancock/publication/281487884_Generative_Graph_Prototypes_from_Information_Theory/links/56206a0a08ae70315b552bf3/Generative-Graph-Prototypes-from-Information-Theory.pdf)  
+  [pdf](https://www.researchgate.net/profile/Edwin_Hancock/publication/281487884_Generative_Graph_Prototypes_from_Information_Theory/links/56206a0a08ae70315b552bf3/Generative-Graph-Prototypes-from-Information-Theory.pdf)<br>  
         *Lin Han, Richard C Wilson, Edwin R Hancock*
 224. **The graph neural network model. IEEE Transactions on Neural Networks. 2008**
-  [pdf](https://repository.hkbu.edu.hk/cgi/viewcontent.cgi?article=1000&context=vprd_ja)  
+  [pdf](https://repository.hkbu.edu.hk/cgi/viewcontent.cgi?article=1000&context=vprd_ja) <br> 
         *Franco Scarselli, Marco Gori, Ah Chung Tsoi, Markus Hagenbuchner, Gabriele Monfardini*
 225. **Towards variational generation of small graphs. ICLR2018. 2018**
-  [pdf](https://openreview.net/pdf?id=rJY7hoi8z)  
+  [pdf](https://openreview.net/pdf?id=rJY7hoi8z)  <br>
         *Martin Simonovsky, Nikos Komodakis*
 226. **Dag-gnn: Dag structure learning with graph neural networks. arXiv preprint arXiv:1904.10098. 2019**
-  [pdf](https://arxiv.org/pdf/1904.10098) [code](https://github.com/fishmoon1234/DAG-GNN)
+  [pdf](https://arxiv.org/pdf/1904.10098) [code](https://github.com/fishmoon1234/DAG-GNN)<br>
         *Yue Yu, Jie Chen, Tian Gao, Mo Yu*
 227. **Masked gradient-based causal structure learning. arXiv preprint arXiv:1910.08527. 2019**
-  [pdf](https://arxiv.org/pdf/1910.08527)  
+  [pdf](https://arxiv.org/pdf/1910.08527)<br>  
         *Ignavier Ng, Zhuangyan Fang, Shengyu Zhu, Zhitang Chen, Jun Wang*
 228. **CausalVAE: Structured Causal Disentanglement in Variational Autoencoder. arXiv preprint arXiv:2004.08697. 2020**
-  [pdf](https://arxiv.org/pdf/2004.08697)  
+  [pdf](https://arxiv.org/pdf/2004.08697) <br> 
         *Mengyue Yang, Furui Liu, Zhitang Chen, Xinwei Shen, Jianye Hao, Jun Wang*
 229. **Generative Neural Networks to infer Causal Mechanisms: algorithms and applications. PhD thesis, Université Paris-Saclay. 2019**
-  [pdf](https://tel.archives-ouvertes.fr/tel-02528204/document)  
+  [pdf](https://tel.archives-ouvertes.fr/tel-02528204/document)<br>  
         *Diviyan Kalainathan*
 230. **Deep learning for molecular generation. Future medicinal chemistry. 2019**
-  [pdf](https://www.researchgate.net/profile/Kangjie_Lin/publication/330740221_Deep_learning_for_molecular_generation/links/5cfdf3be4585157d159fecce/Deep-learning-for-molecular-generation.pdf)  
+  [pdf](https://www.researchgate.net/profile/Kangjie_Lin/publication/330740221_Deep_learning_for_molecular_generation/links/5cfdf3be4585157d159fecce/Deep-learning-for-molecular-generation.pdf)<br>  
         *Youjun Xu, Kangjie Lin, Shiwei Wang, Lei Wang, Chenjing Cai, Chen Song, Luhua Lai, Jianfeng Pei*
 231. **Scene graph generation with external knowledge and image reconstruction. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019**
-  [pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gu_Scene_Graph_Generation_With_External_Knowledge_and_Image_Reconstruction_CVPR_2019_paper.pdf) [code](https://github.com/arxrean/SGG_Ex_RC)
+  [pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gu_Scene_Graph_Generation_With_External_Knowledge_and_Image_Reconstruction_CVPR_2019_paper.pdf) [code](https://github.com/arxrean/SGG_Ex_RC)<br>
         *Jiuxiang Gu, Handong Zhao, Zhe Lin, Sheng Li, Jianfei Cai, Mingyang Ling*
 232. **Nevae: A deep generative model for molecular graphs. Proceedings of the AAAI Conference on Artificial Intelligence. 2019**
-  [pdf](https://www.aaai.org/ojs/index.php/AAAI/article/download/3903/3781)[code](https://github.com/Networks-Learning/nevae)  
+  [pdf](https://www.aaai.org/ojs/index.php/AAAI/article/download/3903/3781)[code](https://github.com/Networks-Learning/nevae) <br> 
         *Bidisha Samanta, Abir DE, Gourhari Jana, Pratim Kumar Chattaraj, Niloy Ganguly, Manuel Gomez Rodriguez*
 233. **Automatic retrosynthetic pathway planning using template-free models. arXiv preprint arXiv:1906.02308. 2019**
-  [pdf](https://arxiv.org/pdf/1906.02308)  
+  [pdf](https://arxiv.org/pdf/1906.02308)<br>  
         *Kangjie Lin, Youjun Xu, Jianfeng Pei, Luhua Lai*
 234. **A deep-learning view of chemical space designed to facilitate drug discovery. arXiv preprint arXiv:2002.02948. 2020**
-  [pdf](https://arxiv.org/pdf/2002.02948)  
+  [pdf](https://arxiv.org/pdf/2002.02948)<br>  
         *Paul Maragakis, Hunter Nisonoff, Brian Cole, David E. Shaw*
 235. **Research and development of MolAICal for drug design via deep learning and classical programming. arXiv preprint arXiv:2006.09747. 2020**
-  [pdf](https://arxiv.org/pdf/2006.09747)  
+  [pdf](https://arxiv.org/pdf/2006.09747) <br> 
         *Qifeng Bai*
 236. **Infinite Machine Creativity. 2020 **
-  [pdf](https://labs.sogeti.com/wp-content/uploads/2020/06/SogetiLabs-Infinite-Machine-Creativity.pdf)  
+  [pdf](https://labs.sogeti.com/wp-content/uploads/2020/06/SogetiLabs-Infinite-Machine-Creativity.pdf)  <br>
         *Menno van Doorn, Sander Duivestein, Deepa Mamtani, Thijs Pepping*
 237. **Bidirectional molecule generation with recurrent neural networks. Journal of chemical information and modeling. 2020**
-  [pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b00943)[code](https://github.com/ETHmodlab/BIMODAL)  
+  [pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b00943)[code](https://github.com/ETHmodlab/BIMODAL) <br> 
         *Francesca Grisoni, Michael Moret, Robin Lingwood, and Gisbert Schneider*
 238. **Learning Graph Models for Template-Free Retrosynthesis. arXiv preprint arXiv:2006.07038. 2020**
-  [pdf](https://arxiv.org/pdf/2006.07038)  
+  [pdf](https://arxiv.org/pdf/2006.07038) <br> 
         *Vignesh Ram Somnath, Charlotte Bunne, Connor W. Coley, Andreas Krause, Regina Barzilay*
 239. **Generative network complex for the automated generation of druglike molecules. arXiv preprint arXiv:2005.14286. 2020**
-  [pdf](https://arxiv.org/pdf/2005.14286)  
+  [pdf](https://arxiv.org/pdf/2005.14286) <br> 
         *Kaifu Gao, Duc D Nguyen, Meihua Tu, Guo-Wei Wei*
 240. **SYBA: Bayesian estimation of synthetic accessibility of organic compounds. Journal of Cheminformatics. 2020**
   [pdf](https://link.springer.com/content/pdf/10.1186/s13321-020-00439-2.pdf)    [code](https://github.com/atomistic-machine-learning/schnetpack)<br>
