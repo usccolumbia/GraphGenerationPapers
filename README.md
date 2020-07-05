@@ -352,24 +352,6 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 
 	*Hanjun Dai, Chengtao Li, Connor Coley, Bo Dai, Le Song.*    
     
-    
-### [Biology](#content)
-
-
-
-
-
-	
-	
-	
-### [Organic-Materials](#content)
-
-
-
-
-
-### [Inorganic-Materials](#content)
-
 1. **Multi-objective de novo drug design with conditional graph generative model. Journal of cheminformatics. 2018**
 [pdf](https://link.springer.com/content/pdf/10.1186/s13321-018-0287-6.pdf)[code](https://github.com/kevinid/molecule_generator)<br>
         *Li, Y.; Zhang, L.; Liu, Z.*
@@ -450,14 +432,32 @@ Contributed by Jianjun Hu, Yuxin Li, Alir, Chris, Rongzhi, Yong zhao.
 32. **On failure modes of molecule generators and optimizers. ChemRxiv. 2020**
 [pdf](https://chemrxiv.org/articles/On_Failure_Modes_of_Molecule_Generators_and_Optimizers/12213542/files/22461629.pdf)<br>
        *Renz, P.; Van Rompaey, D.; Wegner, J.K.; Hochreiter, S.; Klambauer, G.*
+    
+### [Biology](#content)
+
+
+
+
+
+	
+	
+	
+### [Organic-Materials](#content)
+
+
+
+
+
+### [Inorganic-Materials](#content)
+
+
        
     
 
 
 ### [Drug Design](#content)
-1. **Stochastic Training of Graph Convolutional Networks with Variance Reduction.** ICML 2018. [paper](http://www.scipaper.net/uploadfile/2018/0716/20180716100330880.pdf)
-   
-    *Jianfei Chen, Jun Zhu, Le Song.*
+
+
     
 
 ### [Knowledge Graph](#content)
