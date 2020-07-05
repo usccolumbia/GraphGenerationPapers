@@ -639,34 +639,34 @@ fingerprints. Journal of computer-aided molecular design. 2016***  [pdf](https:/
 230. **Deep learning for molecular generation. Future medicinal chemistry. 2019**
   [pdf](https://www.researchgate.net/profile/Kangjie_Lin/publication/330740221_Deep_learning_for_molecular_generation/links/5cfdf3be4585157d159fecce/Deep-learning-for-molecular-generation.pdf)<br>  
         *Youjun Xu, Kangjie Lin, Shiwei Wang, Lei Wang, Chenjing Cai, Chen Song, Luhua Lai, Jianfeng Pei*
-231. **Scene graph generation with external knowledge and image reconstruction. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019**
+1. **Scene graph generation with external knowledge and image reconstruction. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019**
   [pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gu_Scene_Graph_Generation_With_External_Knowledge_and_Image_Reconstruction_CVPR_2019_paper.pdf) [code](https://github.com/arxrean/SGG_Ex_RC)<br>
         *Jiuxiang Gu, Handong Zhao, Zhe Lin, Sheng Li, Jianfei Cai, Mingyang Ling*
-232. **Nevae: A deep generative model for molecular graphs. Proceedings of the AAAI Conference on Artificial Intelligence. 2019**
+1. **Nevae: A deep generative model for molecular graphs. Proceedings of the AAAI Conference on Artificial Intelligence. 2019**
   [pdf](https://www.aaai.org/ojs/index.php/AAAI/article/download/3903/3781)[code](https://github.com/Networks-Learning/nevae) <br> 
         *Bidisha Samanta, Abir DE, Gourhari Jana, Pratim Kumar Chattaraj, Niloy Ganguly, Manuel Gomez Rodriguez*
-233. **Automatic retrosynthetic pathway planning using template-free models. arXiv preprint arXiv:1906.02308. 2019**
+1. **Automatic retrosynthetic pathway planning using template-free models. arXiv preprint arXiv:1906.02308. 2019**
   [pdf](https://arxiv.org/pdf/1906.02308)<br>  
         *Kangjie Lin, Youjun Xu, Jianfeng Pei, Luhua Lai*
-234. **A deep-learning view of chemical space designed to facilitate drug discovery. arXiv preprint arXiv:2002.02948. 2020**
+1. **A deep-learning view of chemical space designed to facilitate drug discovery. arXiv preprint arXiv:2002.02948. 2020**
   [pdf](https://arxiv.org/pdf/2002.02948)<br>  
         *Paul Maragakis, Hunter Nisonoff, Brian Cole, David E. Shaw*
-235. **Research and development of MolAICal for drug design via deep learning and classical programming. arXiv preprint arXiv:2006.09747. 2020**
+1. **Research and development of MolAICal for drug design via deep learning and classical programming. arXiv preprint arXiv:2006.09747. 2020**
   [pdf](https://arxiv.org/pdf/2006.09747) <br> 
         *Qifeng Bai*
-236. **Infinite Machine Creativity. 2020 **
+1. **Infinite Machine Creativity. 2020 **
   [pdf](https://labs.sogeti.com/wp-content/uploads/2020/06/SogetiLabs-Infinite-Machine-Creativity.pdf)  <br>
         *Menno van Doorn, Sander Duivestein, Deepa Mamtani, Thijs Pepping*
-237. **Bidirectional molecule generation with recurrent neural networks. Journal of chemical information and modeling. 2020**
+1. **Bidirectional molecule generation with recurrent neural networks. Journal of chemical information and modeling. 2020**
   [pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b00943)[code](https://github.com/ETHmodlab/BIMODAL) <br> 
         *Francesca Grisoni, Michael Moret, Robin Lingwood, and Gisbert Schneider*
-238. **Learning Graph Models for Template-Free Retrosynthesis. arXiv preprint arXiv:2006.07038. 2020**
+1. **Learning Graph Models for Template-Free Retrosynthesis. arXiv preprint arXiv:2006.07038. 2020**
   [pdf](https://arxiv.org/pdf/2006.07038) <br> 
         *Vignesh Ram Somnath, Charlotte Bunne, Connor W. Coley, Andreas Krause, Regina Barzilay*
-239. **Generative network complex for the automated generation of druglike molecules. arXiv preprint arXiv:2005.14286. 2020**
+1. **Generative network complex for the automated generation of druglike molecules. arXiv preprint arXiv:2005.14286. 2020**
   [pdf](https://arxiv.org/pdf/2005.14286) <br> 
         *Kaifu Gao, Duc D Nguyen, Meihua Tu, Guo-Wei Wei*
-240. **SYBA: Bayesian estimation of synthetic accessibility of organic compounds. Journal of Cheminformatics. 2020**
+1. **SYBA: Bayesian estimation of synthetic accessibility of organic compounds. Journal of Cheminformatics. 2020**
   [pdf](https://link.springer.com/content/pdf/10.1186/s13321-020-00439-2.pdf)    [code](https://github.com/atomistic-machine-learning/schnetpack)<br>
         *Milan Voršilák, Michal Kolář, Ivan Čmelo, Daniel Svozil*
 
