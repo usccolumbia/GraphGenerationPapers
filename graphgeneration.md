@@ -41,7 +41,7 @@ Data 2019, 2, 3.**[pdf](https://www.frontiersin.org/articles/10.3389/fdata.2019.
       You, J.; Ying, R.; Ren, X.; Hamilton, W.L.; Leskovec, J.
 20. **MolGAN: An implicit generative model for small molecular graphs. arXiv:1805.11973 2018**[pdf](https://arxiv.org/pdf/1805.11973.pdf)[code](https://github.com/nicola-decao/MolGAN)<br>
         Nicola De Cao and Thomas Kipf
-21.**Generating Tertiary Protein Structures via an Interpretative Variational Autoencoder. arXiv preprint arXiv:2004.07119 2020.**[pdf](https://arxiv.org/pdf/2004.07119.pdf)<br>
+21. **Generating Tertiary Protein Structures via an Interpretative Variational Autoencoder. arXiv preprint arXiv:2004.07119 2020.**[pdf](https://arxiv.org/pdf/2004.07119.pdf)<br>
         Guo, X.; Tadepalli, S.; Zhao, L.; Shehu, A.
 21. **Learn to Generate Time Series Conditioned Graphs with Generative Adversarial Nets. arXiv preprint arXiv:2003.01436 2020.**[pdf](https://arxiv.org/pdf/2003.01436.pdf)<br>
         Yang, S.; Liu, J.; Wu, K.; Li, M.
